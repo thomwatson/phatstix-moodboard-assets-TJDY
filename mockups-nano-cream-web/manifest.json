@@ -1,0 +1,165 @@
+{
+  "purpose": "21 Phatstix mockups generated in the style of 6 newly-added web-direction reference brands (Wild, Lucky Saint, Three Spirit, Surreal, TRIP, PROPER) + 3 standalone hero balm shots.",
+  "generated": "2026-06-07",
+  "model": "google/nano-banana (Nano Banana 2 / gemini-2.5-flash-image)",
+  "base_packshot": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+  "brand_ref_base": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references",
+  "phatstix_spec_locked": {
+    "format": "30g twist-up cosmetic stick, DC-30, 76.5x37.4mm",
+    "body_colour": "Pantone 923 C — fluorescent yellow-green (matte)",
+    "base_colour": "Pantone 923 C — gloss",
+    "lid": "transparent acrylic",
+    "wordmark": "phatstix — lowercase matte black custom geometric sans",
+    "balm_colour": "pale buttery cream-yellow (soft unsalted butter)",
+    "made_in": "England"
+  },
+  "outputs": [
+    {
+      "file": "webnew-wild-1.jpg",
+      "brand": "Wild",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-wild-2.jpg",
+      "note": "Pastel-yellow seamless studio packshot, lid placed beside, cream balm dome visible."
+    },
+    {
+      "file": "webnew-wild-2.jpg",
+      "brand": "Wild",
+      "mode": "Macro",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-wild-4.jpg",
+      "note": "Sculptural pebble-macro framing on dusty pink, micro-grain on matte body."
+    },
+    {
+      "file": "webnew-wild-3.jpg",
+      "brand": "Wild",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-wild-5.jpg",
+      "note": "Sky-blue colourway lineup with patterned-cuff hand reaching in from upper-right."
+    },
+    {
+      "file": "webnew-lucky-saint-1.jpg",
+      "brand": "Lucky Saint",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-lucky-saint-2.png",
+      "note": "Monastic single-subject editorial; warm-grey backdrop, long raking sidelight, brass token prop."
+    },
+    {
+      "file": "webnew-lucky-saint-2.jpg",
+      "brand": "Lucky Saint",
+      "mode": "Macro",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-lucky-saint-4.png",
+      "note": "Overhead saturated foliage flat-lay (bay + thyme + cucumber); references the limes-grid composition without copying the lime motif."
+    },
+    {
+      "file": "webnew-lucky-saint-3.jpg",
+      "brand": "Lucky Saint",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-lucky-saint-1.png",
+      "note": "British-coastal hand-held lifestyle; denim cuff, dune grass + sea blur."
+    },
+    {
+      "file": "webnew-three-spirit-1.jpg",
+      "brand": "Three Spirit",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-three-spirit-2.jpg",
+      "note": "Moody Pentagram-grade chiaroscuro; hand presenting open tube, half-lime prop, dark concrete surface."
+    },
+    {
+      "file": "webnew-three-spirit-2.jpg",
+      "brand": "Three Spirit",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-three-spirit-1.png",
+      "note": "Top-down lifestyle on red-and-cream striped sofa; lived-in joyful editorial."
+    },
+    {
+      "file": "webnew-three-spirit-3.jpg",
+      "brand": "Three Spirit",
+      "mode": "Macro",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-three-spirit-3.webp",
+      "note": "Botanical-ingredient still life — mint + ginger + coffee bean replacement set (vs reference's cocoa pod)."
+    },
+    {
+      "file": "webnew-surreal-1.jpg",
+      "brand": "Surreal",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-surreal-1.jpg",
+      "note": "OOH-billboard-style two-tone teal/cornflower horizon, 5-tube row, hand pinching one cap. Group shot."
+    },
+    {
+      "file": "webnew-surreal-2.jpg",
+      "brand": "Surreal",
+      "mode": "Macro",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-surreal-3.jpg",
+      "note": "Voice-led peach-coral seamless with hand and teaspoon mid-action, hard graphic shadows."
+    },
+    {
+      "file": "webnew-surreal-3.jpg",
+      "brand": "Surreal",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-surreal-4.png",
+      "note": "Black backdrop dynamic group hero, 3 tubes + hand reaching in, retail-shelf confidence."
+    },
+    {
+      "file": "webnew-trip-1.jpg",
+      "brand": "TRIP",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-trip-3.jpg",
+      "note": "Soft pastel-pink studio lineup of 5 identical Phatstix tubes, diagonal stagger, Glossier-DTC restraint."
+    },
+    {
+      "file": "webnew-trip-2.jpg",
+      "brand": "TRIP",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-trip-1.jpg",
+      "note": "Pink-to-peach sunset gradient with vintage coupe glass + soft-serve cream swirl + cocktail umbrella — playful sun-kissed mood."
+    },
+    {
+      "file": "webnew-trip-3.jpg",
+      "brand": "TRIP",
+      "mode": "Macro",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-trip-5.jpg",
+      "note": "Mauve-lilac seamless macro packshot, lid placed beside; calm Neue-Designs energy."
+    },
+    {
+      "file": "webnew-proper-1.jpg",
+      "brand": "PROPER",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-proper-2.jpg",
+      "note": "Factory-worker editorial — hairnet + smock + black food-safe gloves holding 3 Phatstix tubes; honest made-in-England."
+    },
+    {
+      "file": "webnew-proper-2.jpg",
+      "brand": "PROPER",
+      "mode": "Creative",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-proper-5.png",
+      "note": "Anna-Lomax-style brand-mascot composition — a Phatstix-green tumbler drum and Phatstix tubes piled at the base; whimsical limited-edition feel."
+    },
+    {
+      "file": "webnew-proper-3.jpg",
+      "brand": "PROPER",
+      "mode": "Packshot",
+      "source_ref": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/webnew-proper-3.jpg",
+      "note": "Chef apron + tea-towel kitchen lifestyle, warm window-light, tray of golden baked goods upper-right."
+    },
+    {
+      "file": "hero-balm-1.jpg",
+      "brand": "STANDALONE",
+      "mode": "Hero packshot",
+      "source_ref": null,
+      "note": "Pantone 923 C body against deep aubergine-purple complementary backdrop; 4:5 portrait, gallery-quiet."
+    },
+    {
+      "file": "hero-balm-2.jpg",
+      "brand": "STANDALONE",
+      "mode": "Macro balm dome",
+      "source_ref": null,
+      "note": "Extreme macro on the buttery-cream balm dome, soft-white backdrop, visible micro-sheen and butter swirl texture."
+    },
+    {
+      "file": "hero-balm-3.jpg",
+      "brand": "STANDALONE",
+      "mode": "Editorial flat-lay",
+      "source_ref": null,
+      "note": "Overhead linen-fabric flat-lay with one diagonal fold-crease, single curl of fresh lemon peel. Cereal-Magazine quiet."
+    }
+  ]
+}

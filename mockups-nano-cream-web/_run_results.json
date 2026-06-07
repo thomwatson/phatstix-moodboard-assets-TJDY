@@ -1,0 +1,233 @@
+[
+  {
+    "label": "lucky-saint-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-lucky-saint-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/Eu9IhG33WKLCOFxM7stFt3Hw5rE7flx0fdEWrfPY54OfJkzaB/tmp2t8afg1m.jpeg",
+    "ref": "webnew-lucky-saint-1.png",
+    "mode": "Creative",
+    "slug": "lucky-saint",
+    "n": 3,
+    "prediction_id": "0xn9wevx71rmw0cymfps21bqjw"
+  },
+  {
+    "label": "wild-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-wild-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/oeeffbwHwmPySSLtyPR3tV9yEWvvM1kQfWDKR8Mahke7nQOrF/tmp80s3rcqg.jpeg",
+    "ref": "webnew-wild-2.jpg",
+    "mode": "Packshot",
+    "slug": "wild",
+    "n": 1,
+    "prediction_id": "f9fbfs3x8drmy0cymfptdrtv3r"
+  },
+  {
+    "label": "lucky-saint-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-lucky-saint-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/4yLjhEX2inJrOlemTRCM7J0j7hfuOuGSWgG9q1XsFxefJkzaB/tmptba3h3j0.jpeg",
+    "ref": "webnew-lucky-saint-2.png",
+    "mode": "Packshot",
+    "slug": "lucky-saint",
+    "n": 1,
+    "prediction_id": "pztm9ykxadrmt0cymfpram1dd4"
+  },
+  {
+    "label": "wild-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-wild-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/fmm3ZJ4Hc509GipfaiHCm4mZVCoI4vymsI7qzqjP3U5fEyZtA/tmp09upl1ko.jpeg",
+    "ref": "webnew-wild-5.jpg",
+    "mode": "Creative",
+    "slug": "wild",
+    "n": 3,
+    "prediction_id": "d3kyq2bxtsrmw0cymfptb8a5bg"
+  },
+  {
+    "label": "three-spirit-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-three-spirit-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/j5rqE46aM34SCBMMdoIWEthNft4An34EQeKot28WRqvfEyZtA/tmprfkb946p.jpeg",
+    "ref": "webnew-three-spirit-2.jpg",
+    "mode": "Packshot",
+    "slug": "three-spirit",
+    "n": 1,
+    "prediction_id": "1fe5753x89rmr0cymfpsb1z710"
+  },
+  {
+    "label": "wild-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-wild-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/ogl3Xfwo3BwCTqtyX7lwWfeB82Wyr9efZVptELwmpIz8TIn1C/tmp1328udba.jpeg",
+    "ref": "webnew-wild-4.jpg",
+    "mode": "Macro",
+    "slug": "wild",
+    "n": 2,
+    "prediction_id": "w8p2rnkx85rmr0cymfpsg0sfeg"
+  },
+  {
+    "label": "lucky-saint-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-lucky-saint-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/NavW9GmAf3SmTy6JT7UvBy3MU8beT79ijIKBP59uvWdgC5sWA/tmp8ew7zvw2.jpeg",
+    "ref": "webnew-lucky-saint-4.png",
+    "mode": "Macro",
+    "slug": "lucky-saint",
+    "n": 2,
+    "prediction_id": "7qydn3bxqsrmt0cymfptzaqk78"
+  },
+  {
+    "label": "three-spirit-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-three-spirit-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/VzCCeMAwbtQsBq8z3pTybYTm7B5AhyKkOW3NbpgJ5K4QhcWLA/tmprmmebnva.jpeg",
+    "ref": "webnew-three-spirit-1.png",
+    "mode": "Creative",
+    "slug": "three-spirit",
+    "n": 2,
+    "prediction_id": "vmsvvtbxsnrmy0cymfprwhq5k4"
+  },
+  {
+    "label": "surreal-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-surreal-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/uIN7wNZ4hYJ5CZF1euLCkcaXv7JqNJp9CzR0vIzJECRUhcWLA/tmpa16xpc0y.jpeg",
+    "ref": "webnew-surreal-4.png",
+    "mode": "Packshot",
+    "slug": "surreal",
+    "n": 3,
+    "prediction_id": "9nt77ax2p1rmy0cymfprdpg97g"
+  },
+  {
+    "label": "trip-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-trip-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/L4FllA2fXxUKL6XpX95iG7iUnI2Dzt0HX6UtJGpdTeGoC5sWA/tmplt0k3nby.jpeg",
+    "ref": "webnew-trip-5.jpg",
+    "mode": "Macro",
+    "slug": "trip",
+    "n": 3,
+    "prediction_id": "trvr16561srmt0cymfpvjpj0yr"
+  },
+  {
+    "label": "trip-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-trip-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/lRt1iAhyCT4sKlTg2N1hcqPwthJ3huubLJi6UAV2TEXqQOrF/tmphc7ex8wd.jpeg",
+    "ref": "webnew-trip-3.jpg",
+    "mode": "Creative",
+    "slug": "trip",
+    "n": 1,
+    "prediction_id": "7vk5jex37srmr0cymfpvmtgbzm"
+  },
+  {
+    "label": "surreal-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-surreal-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/KvnHSXPssiZZItco7FUde1kOBjD5XFlOscjwOreCJGZpC5sWA/tmpa60ns_f0.jpeg",
+    "ref": "webnew-surreal-1.jpg",
+    "mode": "Creative",
+    "slug": "surreal",
+    "n": 1,
+    "prediction_id": "7zsx5s51jdrmy0cymfprd12h20"
+  },
+  {
+    "label": "three-spirit-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-three-spirit-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/mOCdylzXjt5aP1gW5v6XHlI5gvFhrFygebtlgvgHX9wUhcWLA/tmpft716oqz.jpeg",
+    "ref": "webnew-three-spirit-3.webp",
+    "mode": "Macro",
+    "slug": "three-spirit",
+    "n": 3,
+    "prediction_id": "x9rse7czvdrmy0cymfpsjrcf1r"
+  },
+  {
+    "label": "trip-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-trip-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/SG9xlU1YFdZXEp4jDGnxOb7q7fnreUTxzEbCFQwxTz6qC5sWA/tmp__s7clf2.jpeg",
+    "ref": "webnew-trip-1.jpg",
+    "mode": "Packshot",
+    "slug": "trip",
+    "n": 2,
+    "prediction_id": "e8gkxd5385rmr0cymfpt1rtpx8"
+  },
+  {
+    "label": "proper-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-proper-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/cF5AoICemDwHUKgUn0erOeVWDQ4NwrolqvjhxzGJVDhWFyZtA/tmpwxaj3nm5.jpeg",
+    "ref": "webnew-proper-2.jpg",
+    "mode": "Creative",
+    "slug": "proper",
+    "n": 1,
+    "prediction_id": "awg400na51rmt0cymfpr8dtxam"
+  },
+  {
+    "label": "surreal-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-surreal-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/WGGLiykzAnKnAVTI8r0KJlfTSePHOzLdHgh2CPRninTsC5sWA/tmpxvccbzae.jpeg",
+    "ref": "webnew-surreal-3.jpg",
+    "mode": "Macro",
+    "slug": "surreal",
+    "n": 2,
+    "prediction_id": "03vnyfn269rmr0cymfpver91mg"
+  },
+  {
+    "label": "hero-balm-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/hero-balm-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/q0pGuDSFUhLJFB92jWLIOTtPeyUc2cs5DvfefSayqjzHLkzaB/tmpv5d5mjdc.jpeg",
+    "ref": null,
+    "mode": "Macro balm dome",
+    "slug": "hero-balm",
+    "n": 2,
+    "prediction_id": "pjahet69p5rmw0cymfptmt8dv0"
+  },
+  {
+    "label": "hero-balm-1",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/hero-balm-1.jpg",
+    "output_url": "https://replicate.delivery/xezq/WWjSSkmktFZ9P9Clc0AYKf61wrOd6ZROn6WRDZIcC58YhcWLA/tmpt2wqr9f4.jpeg",
+    "ref": null,
+    "mode": "Hero packshot",
+    "slug": "hero-balm",
+    "n": 1,
+    "prediction_id": "ht6fsm6991rmy0cymfprfmyre8"
+  },
+  {
+    "label": "hero-balm-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/hero-balm-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/NQGnOMNLtVZ4N9gUd2eIFpd0jRWYdf4ClPb9hQKgnYwxC5sWA/tmp_r26dak6.jpeg",
+    "ref": null,
+    "mode": "Editorial flat-lay",
+    "slug": "hero-balm",
+    "n": 3,
+    "prediction_id": "cx8f49yb0xrmw0cymfpsdf2ayg"
+  },
+  {
+    "label": "proper-3",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-proper-3.jpg",
+    "output_url": "https://replicate.delivery/xezq/aFzX0Dgmc6IrBZwoWgJzLP1bMeUo9Sqab1tWvaMLTXIZhcWLA/tmpi13n46w4.jpeg",
+    "ref": "webnew-proper-3.jpg",
+    "mode": "Packshot",
+    "slug": "proper",
+    "n": 3,
+    "prediction_id": "jxpr0q67e5rmr0cymfps1se0v4"
+  },
+  {
+    "label": "proper-2",
+    "ok": true,
+    "path": "/Users/thomwatson/Workspace/phatstix-moodboard-assets-TJDY/mockups-nano-cream-web/webnew-proper-2.jpg",
+    "output_url": "https://replicate.delivery/xezq/P0eCzUEfUhvJAknpDfKhXw0feOcLvN3L8PynSWiuxGmSWIn1C/tmpllpudeab.jpeg",
+    "ref": "webnew-proper-5.png",
+    "mode": "Creative",
+    "slug": "proper",
+    "n": 2,
+    "prediction_id": "21h6awe5h9rmw0cymfprqxptzr"
+  }
+]
