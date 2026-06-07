@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "title": "Perfumer H Style Intelligence — Lyn's Vector v1",
+    "purpose": "Internal foundational intelligence brief for Thom Watson to lead PH's digital + online work. Drawn from Lyn Harris's stated brand and magazine references plus carefully selected adjacent brands and the design studios who shape this aesthetic family.",
+    "date": "2026-06-07",
+    "researcher": "Thom Watson via Claude Opus 4.7",
+    "image_folder": "/Users/thomwatson/Workspace/dubl-connectors-TJDY/phatstix-moodboard/perfumer-h-style-intel/",
+    "image_count": 116,
+    "notes_on_method": "All agency/art-director attributions verified via at least one independent source. Where unverifiable, flagged 'TBC' rather than guessed. All image URLs were live as of 2026-06-07 and downloaded locally; remote URLs preserved for re-mirroring."
+  },
+
+  "lyn_brands": {
+    "buly-1803": {
+      "name": "Officine Universelle Buly 1803",
+      "city": "Paris (HQ); LVMH-owned since 2021",
+      "founded_revival": "2014 revival of an 1803 brand",
+      "founders_revival": "Ramdane Touhami + Victoire de Taillac-Touhami",
+      "agency_or_creative_director": "Ramdane Touhami — VERIFIED. Touhami served as Artistic Director and led the entire visual world himself (he's an artist + creative director, not an outside studio). No separate external design agency on record.",
+      "recent_activity": "Acquired by LVMH October 2021. Continues to roll out new collections (Eritrean Myrrh, Les Jardins Français, Sun Bai hand soaps), candles, Asia-store expansion. Strong narrative-driven product launches.",
+      "online_presence": {
+        "website": "https://buly1803.com",
+        "instagram": "@buly1803",
+        "tone_in_digital": "19th-century pharmacy revival deployed digitally: handwritten catalog typography, ornate engravings, sepia palette, Edwardian-illustration product pages. Site reads like a book/catalog, not a shop."
+      },
+      "images": [
+        {"local": "buly-1803-1.jpg", "remote": "https://buly1803.com/cdn/shop/files/bougie-campagne-italie-Bordeaux_a7ae9666-7f47-4f4c-8bbc-26096c037297.jpg", "caption": "Marble Bordeaux scented candle, brand product photography"},
+        {"local": "buly-1803-2.jpg", "remote": "https://buly1803.com/cdn/shop/files/30365_eritrean_myrrh_lait-virginal.jpg", "caption": "Eritrean Myrrh product still life"},
+        {"local": "buly-1803-3.jpg", "remote": "https://buly1803.com/cdn/shop/files/Baume-Nettoyant-E01.jpg", "caption": "Cleansing balm packaging"},
+        {"local": "buly-1803-4.jpg", "remote": "https://buly1803.com/cdn/shop/files/RESIZE-Porte-Savon-6.jpg", "caption": "Soap dish — porte-savon detail"},
+        {"local": "buly-1803-5.jpg", "remote": "https://buly1803.com/cdn/shop/files/Banniere-Mobile4.jpg", "caption": "Marble candle banner editorial"},
+        {"local": "buly-1803-6.jpg", "remote": "https://buly1803.com/cdn/shop/files/Myrrhe-Mobile_06061979-ca30-43f6-9e7a-311f3c39e3cb.jpg", "caption": "Eritrean Myrrh feature banner"},
+        {"local": "buly-1803-7.jpg", "remote": "https://buly1803.com/cdn/shop/files/Trio-Mobile.jpg", "caption": "Fragrant trio campaign banner"},
+        {"local": "buly-1803-8.jpg", "remote": "https://buly1803.com/cdn/shop/files/Banner_BulyHistory_Mobile.jpg", "caption": "History page banner — 1803 etching aesthetic"}
+      ],
+      "what_to_borrow_online": "Buly treats the website as a museum-cum-apothecary, not an e-commerce funnel. Every product has a sourcing story, a botanical illustration, and a hand-written-feel paragraph. For PH the borrow is: each fragrance gets its own 'edition' page — perfumer's notes in Lyn's voice, ingredient provenance with engraving-style illustrations, and packaging photography that feels collected rather than shot. Lean into letterpress-style type and ornate frame motifs on Instagram cards too."
+    },
+
+    "galerie-half": {
+      "name": "Galerie Half",
+      "city": "Los Angeles — Melrose Arts District, 20,000 sq ft across 3 buildings",
+      "founded": "2009",
+      "founder": "Cameron Smith",
+      "agency_or_creative_director": "Founder-led visual world (Cameron Smith). Website built by Edition (small-studio shop) per inspection, but in-house photography & art direction. Books: monograph published with Flammarion (Rosa Park co-authored with Smith / Tommy + Kathe Clements, 2024).",
+      "recent_activity": "Major monograph 'Galerie Half: Selected Works / Spaces' (Flammarion, 2024). Galerie collaborations with The Row (regularly furnishes their boutiques). New gallery building. Continues to drop weekly Instagram object stories.",
+      "online_presence": {
+        "website": "https://galeriehalf.com",
+        "instagram": "@galeriehalf",
+        "tone_in_digital": "Earthy, subdued, wabi-sabi. Object photography on plaster walls, aged-wood floors, raking-light shadows. Every object becomes still-life. Almost zero motion graphics. Instagram = slow rotating object-of-the-day."
+      },
+      "images": [
+        {"local": "galerie-half-1.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/DSCF3259.jpg", "caption": "Gallery vignette, plaster wall + Donald Judd-adjacent furniture"},
+        {"local": "galerie-half-2.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/DSCF3149-2.jpg", "caption": "Object grouping, raking light"},
+        {"local": "galerie-half-3.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/DSCF3177.jpg", "caption": "Aged wood + ceramic still life"},
+        {"local": "galerie-half-4.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/DSCF3064.jpg", "caption": "Mid-century chair detail"},
+        {"local": "galerie-half-5.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/20251002_DBaum_GalerieHalf_Shot24_0339.jpg", "caption": "Showroom interior, full vignette"},
+        {"local": "galerie-half-6.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/05/DSCF2001.jpg", "caption": "Object detail study"},
+        {"local": "galerie-half-7.jpg", "remote": "https://galeriehalf.com/wp-content/uploads/2026/03/20260206_DBaum_Galerie-Half_3797.jpg", "caption": "Showroom architecture frame, 2026 shoot by DBaum"}
+      ],
+      "what_to_borrow_online": "Galerie Half's site is a slow scroll of singular objects on plaster — no 'shop now' button, just patina. For PH digital: build a 'cabinet' or 'apothecary' photographic library where each bottle is shot like an antiquity — on stone, on linen, with raking natural light. Use this as B-roll across all PH email/IG/site. Adopt a 1:1 square frame discipline like Galerie Half does on Instagram (one object per post, never carousels of 7)."
+    },
+
+    "the-row": {
+      "name": "The Row",
+      "city": "New York (Tribeca HQ, 609 Greenwich St); also Paris, London, LA, Tokyo stores",
+      "founded": "2005/2006",
+      "founders": "Mary-Kate + Ashley Olsen",
+      "agency_or_creative_director": "In-house creative direction. Mary-Kate = Creative Director, Ashley = CEO. NEW YORK boutique interiors designed by Jacques Grange (legendary Paris interior architect — VERIFIED via Wallpaper coverage). LA store fitted by Montalba Architects in collaboration with Galerie Half on furniture sourcing. Brand identity: in-house, intentionally minimal — no campaign credits historically published.",
+      "recent_activity": "$1bn investment round late 2024 (Chanel family + Imaginary Ventures). Summer 26 campaign released. Quiet-luxury archetype now hitting genuine luxury price points (£10k+ bags). Refusing fashion-week stunts.",
+      "online_presence": {
+        "website": "https://www.therow.com",
+        "instagram": "@therow",
+        "tone_in_digital": "Radical restraint: white space, single full-bleed campaign image, slab serif logo, no influencer marketing, no email noise. Site has no editorial / blog. Instagram = ~1 post per week, no captions beyond product name."
+      },
+      "images": [
+        {"local": "the-row-1.jpg", "remote": "https://www.therow.com/cdn/shop/files/THE-ROW-Summer26-Campaign-Website-16-9-6.jpg", "caption": "Summer 26 campaign hero, restrained beige"},
+        {"local": "the-row-2.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/FEYGBAZNsowumiFAAMD9qT.jpg", "caption": "The Row NY townhouse boutique interior — Jacques Grange"},
+        {"local": "the-row-3.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/t9fecBNVh9V3gqfPsxhuG.jpg", "caption": "NY boutique gold clothes rail + Nakashima credenza"},
+        {"local": "the-row-4.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/eP6UWZ2MDS7S6Q6hJLuk4K.jpg", "caption": "NY boutique beauty/home goods display"},
+        {"local": "the-row-5.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/HBYJDnHYLphAPFhRBioYjA.jpg", "caption": "The Row LA mid-century home interior"},
+        {"local": "the-row-6.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/f4tcDy5GkmaoCTdWGsjgXK.jpg", "caption": "The Row LA grey sofa room with ceiling lamp"}
+      ],
+      "what_to_borrow_online": "The Row's online lesson: post less, say less, never market. The brand voice never explains itself, which makes every dropped product feel scarce + sacred. For PH: cut Instagram cadence to ~1-2 per week, never carousels, never video reels, always single-image with sub-10-word caption. Remove ALL urgency language from email. Treat the .com as a private invitation, not a department store."
+    },
+
+    "lemaire": {
+      "name": "Lemaire",
+      "city": "Paris — Marais HQ, Palais Royal flagship",
+      "founded": "1990 (Christophe Lemaire); Sarah-Linh Tran joined 2010; current era 2014+",
+      "founders": "Christophe Lemaire + Sarah-Linh Tran (co-Creative Directors)",
+      "agency_or_creative_director": "Atelier Dyakova (London, founder Sonya Dyakova) — VERIFIED. Commissioned to rebrand Lemaire in 2014: logo, brand identity guidelines, website, labelling, packaging, stationery, lookbooks, digital. The slim geometric LEMAIRE wordmark = Atelier Dyakova's signature output here. Same studio designs for Noma, the Met, Tove, Niccolò Pasqualetti.",
+      "recent_activity": "Commercial scale-up: revenue €10M (2019) → €100M+ (2024). New Lemaire Palais Royal store. AW26 runway. Strong 'Uniqlo U' collaboration continues. Now genuinely competitive with The Row on quiet-luxury volume.",
+      "online_presence": {
+        "website": "https://www.lemaire.fr",
+        "instagram": "@lemaire_official",
+        "tone_in_digital": "Geometric grid, sans-serif everywhere, soft natural-light photography. Site uses real models walking through Marais streets. Lookbooks shot on film. Email is minimal, sparse — text + one image."
+      },
+      "images": [
+        {"local": "lemaire-1.jpg", "remote": "https://www.lemaire.fr/cdn/shop/files/BANNER_HP_desktop_232893df-9ff0-4268-b3d4-05a4fb92bdfa.jpg", "caption": "Spring/Summer 2026 campaign hero banner"},
+        {"local": "lemaire-2.jpg", "remote": "https://www.lemaire.fr/cdn/shop/files/HP_PUSH.jpg", "caption": "Nubuck Croissant Bag homepage push"},
+        {"local": "lemaire-3.jpg", "remote": "https://www.lemaire.fr/cdn/shop/files/Image_PR_Push.jpg", "caption": "Lemaire Palais Royal store campaign"}
+      ],
+      "what_to_borrow_online": "Lemaire/Atelier Dyakova proves that a slimmer, more geometric wordmark + a relentlessly consistent grid layout can carry a whole brand without ever needing 'lifestyle' photography. For PH: commission a typographic / typesetting refresh from the same league of studio. Apply that wordmark + grid system uniformly across site/email/IG. Stop using ornate fonts in IG captions. Real cinematic film photography of Marylebone over generic e-commerce."
+    },
+
+    "jw-anderson": {
+      "name": "JW Anderson",
+      "city": "London (HQ), Belfast (Anderson's origin), now Pimlico Road + Soho flagships",
+      "founded": "2008",
+      "founder": "Jonathan Anderson (left Loewe Creative Director role in 2025; now Dior Men)",
+      "agency_or_creative_director": "M/M (Paris) — VERIFIED long-time collaborator (Mathias Augustyniak + Michael Amzalag). They created accessories for JW Anderson Workshop & graphic identity work over 20 years. Architecture for the new flagships: Sanchez Benton (London architects) — VERIFIED. New Pimlico Road store designed by Sanchez Benton + features sculptural sconces by Kira Freije.",
+      "recent_activity": "December 2025: opened JW Anderson Pimlico Road — pivoted into homewares + objects + 'cabinet of curiosities' positioning. New logo by JW Anderson team (slimmer anchor serif). Resort SS26 campaign shot by Heikki Kaski features Luca Guadagnino, Joe Alwyn, Ben Whishaw — campaign concept: Anderson's close-knit circle. Wedgwood collaboration. Anderson left Loewe; rumored Dior Men appointment.",
+      "online_presence": {
+        "website": "https://jwanderson.com",
+        "instagram": "@jw_anderson",
+        "tone_in_digital": "Art-school / gallery hybrid. Stories feature actors/artists in domestic settings. Recent rebrand pushed harder into homeware editorial. Email is high-art, no urgency. Strong Pinterest presence."
+      },
+      "images": [
+        {"local": "jw-anderson-1.jpg", "remote": "https://jwanderson.com/cdn/shop/files/JONATHAN_ABOUT_US.jpg", "caption": "Jonathan Anderson portrait, About Us"},
+        {"local": "jw-anderson-2.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/2LtFkrpLYY3rgCbVFJZFCb.jpg", "caption": "JW Anderson Pimlico Road store, Sanchez Benton architecture"},
+        {"local": "jw-anderson-3.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/i4syrsvct5eNJQJjeQ8DmN.jpg", "caption": "Pimlico store — Shaker-cue interior, velvet panels"},
+        {"local": "jw-anderson-4.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/9yCwVEeqd6UwYawUuGMDfL.jpg", "caption": "Pimlico store — homewares emporium vignette"},
+        {"local": "jw-anderson-5.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/Q5etsLw9TcT8YjKWxqCxiL.jpg", "caption": "Pimlico store — Kira Freije sconce installation"},
+        {"local": "jw-anderson-6.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/34vny8ZHKhSdqy4gewjJPN.jpg", "caption": "Pimlico store — full interior view"}
+      ],
+      "what_to_borrow_online": "JW Anderson's Pimlico pivot says: a fashion brand can credibly become a homeware/object brand by treating the store + the digital touchpoints as a 'cabinet of curiosities'. For PH: lean further into the 'apothecary lab + curiosities' positioning. On Instagram, mix product with antique vessels, raw materials, art references, books — like a curator's notebook. Anderson never explains himself either — captions are titles, not paragraphs."
+    }
+  },
+
+  "lyn_magazines": {
+    "gentleman": {
+      "name": "Gentleman (TBC — unresolved which 'Gentleman' Lyn means)",
+      "status": "UNVERIFIED",
+      "candidates": [
+        "The Gentleman Magazine (UK, thegentlemanmagazine.co.uk) — high-end men's lifestyle, watch-focused, niche British",
+        "Gentleman's Journal (UK, thegentlemansjournal.com) — broader luxury men's lifestyle",
+        "Possibly a German Herren-/Gentlemen-titled magazine, but no clear contemporary equivalent surfaced"
+      ],
+      "art_director": "TBC — depends on which title",
+      "online_presence": {"website": "TBC", "instagram": "TBC"},
+      "aesthetic_signature": "TBC. Most likely the UK 'The Gentleman Magazine' given Lyn's UK base — restrained, watch + heritage focus, navy + cream palette.",
+      "images": [],
+      "what_to_borrow_online": "Flag: ask Lyn directly which 'Gentleman' she reads. Until clarified, do not commit. Likely a watch + heritage palette, which would suggest: PH email could adopt a more 'House Journal' tone with serif body type, single photo, no offers."
+    },
+
+    "holiday": {
+      "name": "Holiday Magazine",
+      "city": "Paris (relaunched 2014)",
+      "founded_original": "1946 (USA, Curtis Publishing); folded 1977",
+      "art_director_creative_director": "Franck Durand (founder of Atelier Franck Durand, Paris) — VERIFIED. Each issue dedicated to one destination (Cartagena, Greece, Big Sur). Photographers include Brett Lloyd, Drew Vickers, Cass Bird. Fashion editor: Emmanuelle Alt (ex-Vogue Paris).",
+      "online_presence": {
+        "website": "https://www.holiday-paris.fr",
+        "instagram": "@holiday.magazine",
+        "tone_in_digital": "Print-first. Site sells the magazine + Holiday Boileau clothing line + Holiday Café (Paris 16e). Multi-cover strategy per issue — collectors buy all variants. Strong typographic identity (Didone-meets-modern serif)."
+      },
+      "images": [
+        {"local": "holiday-mag-cover-397.jpg", "remote": "https://www.holiday-paris.fr/cdn/shop/files/HOLIDAY_-_397_-_SITE_WEB04_1800x1800.jpg", "caption": "Holiday N°397 Cartagena de Indias cover"},
+        {"local": "holiday-mag-397-1.webp", "remote": "https://www.yvon-lambert.com/cdn/shop/files/HOLIDAY-397-KDPRESS0_f0b7f42c-b3bc-4390-9dba-69c0363f2a13_jpg.webp", "caption": "Holiday 397 cover variant"},
+        {"local": "holiday-mag-397-2.webp", "remote": "https://www.yvon-lambert.com/cdn/shop/files/HOLIDAY-397-KDPRESS02_9b48d345-90e2-4a9a-b372-230e1cde658b_jpg.webp", "caption": "Holiday 397 cover variant 2"},
+        {"local": "holiday-mag-397-3.webp", "remote": "https://www.yvon-lambert.com/cdn/shop/files/397-COVERS-KDPRESSE18_03_08_jpg.webp", "caption": "Holiday 397 multi-cover set"},
+        {"local": "holiday-mag-1.jpg", "remote": "https://www.holiday-paris.fr/cdn/shop/files/HOLIDAY_-_002_-_SITE_-_BANNIERE_-_IPHONE0.jpg", "caption": "Holiday Interiors and Gardens N°002 spread"}
+      ],
+      "what_to_borrow_online": "Holiday's lesson: theme each season/edition around a place, not a product. For PH: monthly digital 'editions' — Marylebone in May, Provence in July, Tokyo in October — each with a hero film, a perfumer's note from Lyn, a place-specific palette + typographic skin. Multi-cover thinking → multi-hero IG carousel where each cover is the same edition shot 4 different ways."
+    },
+
+    "mastermind": {
+      "name": "mastermind magazine",
+      "city": "Paris",
+      "founded": "2017",
+      "founder_editor_creative_director": "Marie-Amélie Sauvé (Editorial & Creative Director). Visual Director: Suzy Alter. NB: The brief mentioned 'Hyung Kyoo Choi, Berlin/Korea' — this is NOT verified. Hyung Kyoo Choi was/is associated with separate Korean projects but is NOT confirmed as mastermind's editor. Mastermind is a Paris-published cultural review with deep fashion/art interviews. Photographers include Walter Pfeiffer, etc.",
+      "online_presence": {
+        "website": "https://mastermindparis.com",
+        "instagram": "@mastermind.magazine",
+        "tone_in_digital": "Long-form interview-led. Two issues/year. Sister Mastermind Studio = creative agency arm doing branded content with the same editorial voice. Site is an editorial daily, not e-commerce."
+      },
+      "images": [
+        {"local": "mastermind-1.jpg", "remote": "https://mastermindparis.com/wp-content/uploads/2026/06/AVZ-AUSTRIA-5019-1-scaled.jpg", "caption": "Venice Biennale 2026 guide editorial image"},
+        {"local": "mastermind-2.jpg", "remote": "https://mastermindparis.com/wp-content/uploads/2026/05/Fatherland-1-1-scaled.jpg", "caption": "Pawel Pawlikowski Film Guide spread"},
+        {"local": "mastermind-3.jpg", "remote": "https://mastermindparis.com/wp-content/uploads/2026/05/Diego_Calva_5-scaled.jpg", "caption": "Diego Calva at Cannes feature"},
+        {"local": "mastermind-4.jpg", "remote": "https://mastermindparis.com/wp-content/uploads/2026/04/2512_WP_Mastermind_Shot_04_020_V03_DEF_RGB-scaled.jpg", "caption": "Walter Pfeiffer exhibition feature"}
+      ],
+      "what_to_borrow_online": "Mastermind is interview-led + culturally deep. For PH digital: build long-form 'In Conversation' content — Lyn interviews a Marylebone perfumer mentor, a noma chef, a Hender Scheme leathermaker. Treat each interview as a 1500-word digital edition with one big image, not a blog. This is the antidote to product-promo email fatigue."
+    },
+
+    "scenery": {
+      "name": "scenery magazine",
+      "city": "London/global",
+      "founded": "November 2023",
+      "team": "Editor-in-Chief: Simon B. Mørch. Creative Director: Alister Mackie (legendary stylist — AnOther Magazine, Lanvin, Givenchy collaborator). Art Director: Aiden Miller. Features Director: Liam Hess. Biannual print, focused on interiors-through-an-artistic-lens. Each issue paired with limited objects.",
+      "online_presence": {
+        "website": "https://scenery-ltd.com",
+        "instagram": "@scenery_ltd",
+        "tone_in_digital": "Print-first, multi-cover. Fans include Kate Moss, Kim Jones, Andreas Kronthaler. Each issue produces collaboration objects (candles, ceramics) — magazine-as-brand model."
+      },
+      "images": [
+        {"local": "scenery-mag-1.jpg", "remote": "https://scenery-ltd.com/cdn/shop/files/Scenery_05_Cover_01_4x5_11e43328-7dff-453d-a589-e43ba6ec1168.jpg", "caption": "Scenery Issue 5 cover"},
+        {"local": "scenery-mag-2.jpg", "remote": "https://scenery-ltd.com/cdn/shop/files/Scenery_04_Cover_02_4x5_093eefb4-159d-4a65-ae24-00030793ed6e.jpg", "caption": "Scenery Issue 4 cover"},
+        {"local": "scenery-mag-3.jpg", "remote": "https://scenery-ltd.com/cdn/shop/files/Scenery_03_Cover_01_4x5_01_4961f9d5-3a3e-43d7-91a8-83390d17a90d.jpg", "caption": "Scenery Issue 3 cover"},
+        {"local": "scenery-mag-4.jpg", "remote": "https://scenery-ltd.com/cdn/shop/files/Scenery_002_Box_Cover_4x5_f1cd5c1b-6e0c-424a-a6d9-00b62c58afa9.jpg", "caption": "Scenery Issue 2 boxed edition"}
+      ],
+      "what_to_borrow_online": "Scenery proves a print mag can ship limited collaboration objects (and treat them as cultural artefacts). For PH: pair each new fragrance edition with a collectible object — a brass tray, a ceramic dish, a printed booklet. Multi-cover IG strategy: each PH edition gets 3-4 'cover' images, treated like a magazine drop."
+    },
+
+    "neptune": {
+      "name": "Neptune (TBC — unresolved which 'Neptune' Lyn means)",
+      "status": "PARTIALLY UNVERIFIED",
+      "candidates": [
+        "Neptune Yachting Moteur (French monthly yachting magazine) — most likely if she means a print mag",
+        "Neptune (UK homeware brand) — has a customer magazine, possible if she means the brand journal",
+        "Could mean a private/indie title — recommend asking Lyn"
+      ],
+      "art_director": "TBC",
+      "online_presence": {"website": "TBC", "instagram": "TBC"},
+      "aesthetic_signature": "If yachting Neptune: navy, sun-bleached, Riviera 1960s. If Neptune homeware: English country, oak-and-linen. Both plausibly inform Lyn's seasonal mood.",
+      "images": [],
+      "what_to_borrow_online": "Flag: confirm with Lyn. If yachting Neptune, the borrow is sun-bleached/Riviera summer mood — applicable to PH seasonal digital editions. If homeware Neptune, the borrow is a 'House Journal' approach to email."
+    },
+
+    "kennedy": {
+      "name": "Kennedy Magazine",
+      "city": "Athens, Greece — NOT Australia (brief had this wrong)",
+      "founded": "July 2013",
+      "editor_publisher_main_photographer": "Chris Kontos (founder/editor/publisher and primary photographer himself). Indie one-man journal model.",
+      "online_presence": {
+        "website": "https://www.kennedy-magazine.com",
+        "instagram": "@kennedymagazine",
+        "tone_in_digital": "Photography-led. Annual (some years biannual). Available in selected bookstores, menswear shops, galleries, museum shops worldwide. Recent issue 15 (AW24): Paris. Print prints sold on Hahnemuehle paper — magazine-as-gallery."
+      },
+      "images": [
+        {"local": "kennedy-mag-1.png", "remote": "https://images.squarespace-cdn.com/content/v1/5bcc80f3b2cf7923e466c831/1644486480330-TWG7XPS76IS58CEJ89XS/Capture+d%E2%80%99%C3%A9cran+2022-02-03+%C3%A0+11.44.42.png", "caption": "Kennedy photographic print N.01"},
+        {"local": "kennedy-mag-2.jpg", "remote": "https://images.squarespace-cdn.com/content/v1/5bcc80f3b2cf7923e466c831/1644502148304-YFBUDUUDO4OBLCMMLSYT/Screenshot+2022-02-08+at+3.40.49+PM.jpg", "caption": "Kennedy photographic print N.02"},
+        {"local": "kennedy-mag-3.jpg", "remote": "https://images.squarespace-cdn.com/content/v1/5bcc80f3b2cf7923e466c831/1644502149449-NYEC84N1NZUJA2GGX6L7/Screenshot+2022-02-08+at+3.41.18+PM.jpg", "caption": "Kennedy photographic print N.03"},
+        {"local": "kennedy-mag-4.jpg", "remote": "https://images.squarespace-cdn.com/content/v1/5bcc80f3b2cf7923e466c831/1644502151234-KL3PADDT843R3CHGRE2Q/Screenshot+2022-02-08+at+3.42.48+PM.jpg", "caption": "Kennedy photographic print N.04"}
+      ],
+      "what_to_borrow_online": "Kennedy's one-photographer/one-editor purity is the lesson. For PH digital: appoint a single house photographer (or a tiny rotation of 2-3) and never deviate. Every image must feel like the same eye took it. Sell prints / framed editions from the PH digital storefront."
+    },
+
+    "htsi": {
+      "name": "HTSI (How To Spend It)",
+      "city": "London (Financial Times)",
+      "founded_redesign": "Original 1994; current era under Jo Ellison from 2019; Kahil redesign launched Feb 2020",
+      "editor": "Jo Ellison",
+      "creative_director": "Rasha Kahil (London-based, Lebanese-British creative director, VERIFIED). Designed the 2020 reset: longer photography-led features, contemporary typographic language, elegant editorial design.",
+      "online_presence": {
+        "website": "https://htsi.ft.com (paywalled)",
+        "instagram": "@ft_htsi",
+        "tone_in_digital": "Weekly Saturday magazine — hybrid print + digital. Phoebe Philo guest-edited the 2024 anniversary edition. Sophisticated typography, white space, slow long-form articles. Often features fragrance/perfumer profiles."
+      },
+      "images": [
+        {"local": "htsi-1.webp", "remote": "https://cdn.visie.io/public/project/29643/image/VisieAdmin_FinancialTimes-HTSIMagazine_2025_121041_VISIE_large.webp", "caption": "HTSI October 2025 cover"}
+      ],
+      "what_to_borrow_online": "HTSI is the gold standard of 'global wealth weekend reading'. For PH: pitch Lyn for a profile in HTSI (Kahil is Lebanese-British, could be sympathetic). The editorial design borrow: contemporary serif headlines + sans body, long-form photography-led articles. Apply this typographic system to the PH Journal."
+    },
+
+    "wallpaper": {
+      "name": "Wallpaper*",
+      "city": "London (Condé Nast / Future plc)",
+      "founded": "1996",
+      "editor_in_chief": "Bill Prince (appointed 2023). Fashion + Creative Director: Jason Hughes. Global Design Director: Rosa Bertoli. Architecture & Environment Director: Ellie Stathaki.",
+      "online_presence": {
+        "website": "https://www.wallpaper.com",
+        "instagram": "@wallpapermag",
+        "tone_in_digital": "Daily digital + monthly print. Issues built around themes: Global Interiors (April), Style (March), Milan Design (May), Travel (June), Design Directory (July). Strong architecture coverage. Has covered The Row + JW Anderson Pimlico + Aesop stores."
+      },
+      "images": [
+        {"local": "wallpaper-cover-1.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/8QDsmLELueSsNvkcCKUdsE.jpg", "caption": "Wallpaper May 2026 Milan design issue cover"},
+        {"local": "wallpaper-cover-2.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/Yfbx5kgJvWKPEERAKQUChE.jpg", "caption": "Wallpaper April 2026 Global Interiors cover, Las Vegas residence"},
+        {"local": "wallpaper-cover-3.jpg", "remote": "https://cdn.mos.cms.futurecdn.net/xTRxHVn4633nMZji2AqX75.jpg", "caption": "Wallpaper April 2026 Gujarat house feature image, Studio Sangath"}
+      ],
+      "what_to_borrow_online": "Wallpaper's lesson: thematic monthly issues + strong editorial pegs (architecture, travel, design awards). For PH digital: build a 12-month editorial calendar with named monthly themes (May = Marylebone neighbourhood; July = Riviera summer; October = Japan minimalism). Each theme gets a hero film, an interview, a product pairing, a gallery feature."
+    }
+  },
+
+  "adjacent_brands": {
+    "margaret-howell": {
+      "name": "Margaret Howell",
+      "city": "London (Wigmore St flagship since 2002)",
+      "agency_or_creative_director": "Studio Small (London, David Hitner + Guy Marshall, 10+ years collaboration) — VERIFIED. Pentagram (William Russell) for store/studio interiors (Wigmore Street, Paris) — VERIFIED.",
+      "why_in_lyns_vector": "Quintessential British quiet utility. Linen, cream, oak. Studio Small's pared-back graphic identity = direct analog to where PH could go. Howell + MHL diffusion = same audience.",
+      "ph_online_application": "Adopt Studio Small's discipline: clean wordmark, oak-and-cream palette in digital, calendar based on building seasons (linen in summer, wool in winter).",
+      "online": {"website": "https://www.margarethowell.co.uk", "instagram": "@margarethowellltd"},
+      "images": [
+        {"local": "margaret-howell-1.jpg", "remote": "https://www.margarethowell.co.uk/cdn/shop/files/margaret-howell-ss26-additionals-02-1307x1888-35.jpg", "caption": "MH SS26 lookbook"},
+        {"local": "margaret-howell-2.jpg", "remote": "https://www.margarethowell.co.uk/cdn/shop/files/margaret-howell-ss26-lookbook-1307x1888-16_660d46cb-84b1-4a46-ab18-aa5153606baa.jpg", "caption": "MH SS26 lookbook 2"},
+        {"local": "margaret-howell-3.jpg", "remote": "https://www.margarethowell.co.uk/cdn/shop/files/mhl-by-margaret-howell-ss26-lookbook-20.jpg", "caption": "MHL SS26 lookbook"},
+        {"local": "margaret-howell-4.jpg", "remote": "https://www.margarethowell.co.uk/cdn/shop/files/HOMEPAGE_MHL_SS26_SHOREDITCH.jpg", "caption": "MHL Shoreditch store"},
+        {"local": "margaret-howell-5.jpg", "remote": "https://www.margarethowell.co.uk/cdn/shop/files/OLD_NICHOL_STREET_2064_X_1333_c26d810e-dc8e-4ac7-979a-4af6729005bf.jpg", "caption": "MHL Old Nichol Street shop interior"}
+      ]
+    },
+
+    "studio-nicholson": {
+      "name": "Studio Nicholson",
+      "city": "East London (HQ); stores in London, Tokyo, Kyoto, Seoul",
+      "founder": "Nick Wakeman (Chelsea School of Art textile design)",
+      "agency_or_creative_director": "Founder-led visual world; no externally-credited brand agency on public record (TBC). Working with Aaron Levine on the new menswear capsule.",
+      "why_in_lyns_vector": "Architectural cuts. Chalk + concrete + marble inspiration. Strong Japan/Korea retail presence — proves UK quiet-luxury can scale across Lyn's geographic interests.",
+      "ph_online_application": "Tokyo/Kyoto/Seoul store presence suggests PH should consider Asian content localisation. Mirror Studio Nicholson's spare lookbook approach — model walking, no styling drama, single colour palette per season.",
+      "online": {"website": "https://www.studionicholson.com", "instagram": "@studionicholson"},
+      "images": [
+        {"local": "studio-nicholson-1.jpg", "remote": "https://www.studionicholson.com/cdn/shop/files/SU26_CAMPAIGN_COLORED_FINAL_5x4LANDSCAPE2_1_932f2251-4fe1-4c86-9924-c46a03faabc7_1440x.jpg", "caption": "SU26 campaign hero"},
+        {"local": "studio-nicholson-2.jpg", "remote": "https://www.studionicholson.com/cdn/shop/files/202512_studionicholson_2000_srgb-005_1440x.jpg", "caption": "Women's Summer campaign"},
+        {"local": "studio-nicholson-3.jpg", "remote": "https://www.studionicholson.com/cdn/shop/files/0205_Studio_nicholson0791_1440x.jpg", "caption": "Store visit campaign"}
+      ]
+    },
+
+    "casey-casey": {
+      "name": "Casey Casey",
+      "city": "Paris",
+      "founder": "Gareth Casey",
+      "agency_or_creative_director": "Founder-led; brand communication is intentionally minimal — Casey rarely gives interviews. No external agency on record. Brand identity reads like a craft maker's mark.",
+      "why_in_lyns_vector": "Quiet workwear archetype. Paper-cotton signature fabric. Hand-sewn red thread trademark. 'Monastic' production cycle — anti-marketing.",
+      "ph_online_application": "The 'silence is intentional' approach is PURE PH. Borrow Casey's discipline of zero promotional copy on Instagram, no email cadence push, no influencer seeding. Communicate only when there is something to say.",
+      "online": {"website": "https://caseycasey.eu", "instagram": "@caseycaseyworks"},
+      "images": [
+        {"local": "casey-casey-1.jpg", "remote": "https://caseycasey.eu/cdn/shop/files/2_WHITE.jpg", "caption": "Casey Casey campaign image"},
+        {"local": "casey-casey-2.jpg", "remote": "https://caseycasey.eu/cdn/shop/files/visu_bas_de_page_homepage_1_3f065ae5-be78-411b-ae33-85da3fa1dccb.jpg", "caption": "Menswear homepage feature"},
+        {"local": "casey-casey-3.jpg", "remote": "https://caseycasey.eu/cdn/shop/files/visu_bas_de_page_homepage_2_e32ebb33-e4c1-4527-a9af-1e90b8d0e047.jpg", "caption": "Womenswear homepage feature"}
+      ]
+    },
+
+    "toogood": {
+      "name": "Toogood",
+      "city": "London",
+      "founders": "Faye Toogood (designer) + Erica Toogood (sister, tailor) — fashion is co-created",
+      "agency_or_creative_director": "A Practice For Everyday Life (APFEL — Kirsty Carter + Emma Thomas) designed the Toogood website + brand identity — VERIFIED.",
+      "why_in_lyns_vector": "Sculptural objects + clothing where each piece is named after a trade (Tinker, Tailor, Mariner). Cross-disciplinary (interior, fashion, furniture, sculpture). Chatsworth House exhibitions = aristocratic-craft positioning.",
+      "ph_online_application": "Toogood is the gold standard 'art studio that sells things' brand. APFEL's website is the website PH should aspire to — typographic, photographic, almost zero e-commerce friction visible. Name PH fragrances like Toogood names garments (after professions or natural elements, not consumer-friendly fragrance language).",
+      "online": {"website": "https://www.fayetoogood.com", "instagram": "@t_o_o_g_o_o_d"},
+      "images": [
+        {"local": "toogood-1.jpg", "remote": "https://www.datocms-assets.com/197231/1779467010-faye-toogood_a7-lost-and-found_process_29.jpeg", "caption": "A7 Lost and Found process"},
+        {"local": "toogood-2.jpg", "remote": "https://www.datocms-assets.com/197231/1778685985-fayetoogood_genevievelutkin_a7process_9.jpg", "caption": "Faye Toogood A7 process by Genevieve Lutkin"},
+        {"local": "toogood-3.jpg", "remote": "https://www.datocms-assets.com/197231/1778755697-channel_portrait.jpg", "caption": "Channel portrait"},
+        {"local": "toogood-4.jpg", "remote": "https://www.datocms-assets.com/197231/1775213116-exhibition_chatsworth_house-2.jpg", "caption": "Chatsworth House exhibition"},
+        {"local": "toogood-5.jpg", "remote": "https://www.datocms-assets.com/197231/1778616889-chatsworth-oak.jpg", "caption": "Chatsworth oak sculpture"}
+      ]
+    },
+
+    "wax-london": {
+      "name": "Wax London",
+      "city": "London",
+      "founders": "Tom Holmes, Rich Coppen, Steffy McCourt (2015)",
+      "agency_or_creative_director": "In-house creative direction. No publicly-credited external agency. Strong narrative around 'clothes with character' + heritage British outerwear making.",
+      "why_in_lyns_vector": "British workwear, sustainable, UK/Europe family factory production. Lower price point than other Lyn references but same restraint + the same workwear-elegance lineage Lemaire works within.",
+      "ph_online_application": "Wax's email is exemplary 'craft brand' email — story per garment, place per fabric, no urgency. Photography is consistent (one photographer, one studio). For PH: pin a single photographer + a single warehouse-loft studio for ALL packshots + lifestyle.",
+      "online": {"website": "https://waxlondon.com", "instagram": "@waxlondon"},
+      "images": [
+        {"local": "wax-london-1.jpg", "remote": "https://waxlondon.com/cdn/shop/files/Homepage_Mobile_9181bc12-4073-45ab-bac1-52bed3cb6a9d_x800.jpg", "caption": "Wax London homepage mobile hero"},
+        {"local": "wax-london-2.jpg", "remote": "https://waxlondon.com/cdn/shop/files/Email_Lead_3d73733a-5641-4894-b0ed-31cfe4179bbf.jpg", "caption": "Wax London best t-shirts editorial feature"},
+        {"local": "wax-london-3.jpg", "remote": "https://waxlondon.com/cdn/shop/files/Banner_mobile.jpg", "caption": "Wax London Sabah shoes feature"}
+      ]
+    },
+
+    "marfa-stance": {
+      "name": "Marfa Stance",
+      "city": "London (Notting Hill)",
+      "founder": "Georgia Dant (ex-Burberry menswear under Christopher Bailey, ex-Rag & Bone)",
+      "agency_or_creative_director": "In-house brand identity by Dant. Name + concept directly inspired by Donald Judd's Marfa, Texas — same Judd reference as Galerie Half. No external agency on record.",
+      "why_in_lyns_vector": "Donald Judd / Marfa reference = same well as Galerie Half. Modular reversible outerwear from deadstock fabric = quiet-luxury + sustainable. Ledbury Road, Notting Hill — same neighbourhood Lyn knows.",
+      "ph_online_application": "Marfa Stance's product communication is the 'system' approach — every garment is a base + add-ons. For PH digital: present the fragrance collection as a system — base scents + seasonal layering oils + body washes that compose into a personal blend. Educate via diagrams, not stock photography.",
+      "online": {"website": "https://www.marfastance.com", "instagram": "@marfastance"},
+      "images": [
+        {"local": "marfa-stance-1.jpg", "remote": "https://www.marfastance.com/cdn/shop/files/jacket-Hero_1_fa55bb5c-65de-4f4d-b86e-0697244faeb1.jpg", "caption": "Marfa Stance jacket hero"},
+        {"local": "marfa-stance-2.jpg", "remote": "https://www.marfastance.com/cdn/shop/files/reverse-Hero_1_fa55bb5c-65de-4f4d-b86e-0697244faeb1.jpg", "caption": "Reversible hero"},
+        {"local": "marfa-stance-3.jpg", "remote": "https://www.marfastance.com/cdn/shop/files/vest-Hero_1_fa55bb5c-65de-4f4d-b86e-0697244faeb1.jpg", "caption": "Modular vest hero"}
+      ]
+    },
+
+    "folk": {
+      "name": "Folk",
+      "city": "London (5 stores)",
+      "founder": "Cathal McAteer (2002)",
+      "agency_or_creative_director": "In-house. No external agency credited publicly.",
+      "why_in_lyns_vector": "25-year-old indie British menswear with Assembly Pants + chore jacket cult following. Quiet, sustainable, no-drama style. Loyal musician/artist customer base — similar to PH's Marylebone clientele.",
+      "ph_online_application": "Folk's strength is unmoved consistency over 25 years. For PH: define the 5-7 'core' products that will never change + treat seasonal/limited releases as carefully spaced satellite events. Don't redesign the brand every 2 years.",
+      "online": {"website": "https://www.folkclothing.com", "instagram": "@folkclothing / @folkwomens"},
+      "images": [
+        {"local": "folk-1.jpg", "remote": "https://www.folkclothing.com/cdn/shop/files/folk-slouch-crew-black-stripe-model_3caf76b1-cfd7-4007-876d-d502b5587241.jpg", "caption": "Folk slouch crew portrait"},
+        {"local": "folk-2.jpg", "remote": "https://www.folkclothing.com/cdn/shop/files/Folk_x_Goss_shoot-361-2.jpg", "caption": "Folk x Goss collaboration"},
+        {"local": "folk-3.jpg", "remote": "https://www.folkclothing.com/cdn/shop/files/Folk_x_Goss_shoot-393.jpg", "caption": "Folk x Goss shoot"},
+        {"local": "folk-4.jpg", "remote": "https://www.folkclothing.com/cdn/shop/files/Folk_x_Goss_shoot-295-6.jpg", "caption": "Folk x Goss jungle cat print"}
+      ]
+    },
+
+    "wildsmith": {
+      "name": "Wildsmith (Skin)",
+      "city": "Hampshire, UK (Heckfield Estate parent)",
+      "founders": "Heckfield Place hotel team — named after 19th-century horticulturist William Walker Wildsmith",
+      "agency_or_creative_director": "Made Thought (London, Ben Parker + Paul Austin) — VERIFIED. Made Thought has built the whole brand from 2018: identity, packaging, website. Wildsmith was one of the first beauty brands to use mycelium packaging (2020).",
+      "why_in_lyns_vector": "British luxury skincare — DIRECT competitor + design analog for PH. Same audience (Liberty, Heckfield, Marylebone). Made Thought's restrained, type-led identity is the closest match in the British beauty space to where PH might go.",
+      "ph_online_application": "Wildsmith's site is the closest existing template. Single-product hero pages, plant-source storytelling, mycelium / packaging-as-story narrative. PH could commission Made Thought or a peer (OK-RM, A Practice for Everyday Life) for the next identity refresh.",
+      "online": {"website": "https://wildsmithskin.com", "instagram": "@wildsmithskin"},
+      "images": [
+        {"local": "wildsmith-1.jpg", "remote": "https://wildsmithskin.com/cdn/shop/files/cleansers_focus_2880x.jpg", "caption": "Wildsmith cleansers hero, Made Thought typography"},
+        {"local": "wildsmith-2.jpg", "remote": "https://wildsmithskin.com/cdn/shop/files/DSCF0774_1500x.jpg", "caption": "Treatments + wellbeing image"},
+        {"local": "wildsmith-3.jpg", "remote": "https://wildsmithskin.com/cdn/shop/files/hero_acc2d731-5db4-465c-89e1-01ca4b245bc9_2880x.jpg", "caption": "Wildsmith Vivomer packaging hero"},
+        {"local": "wildsmith-4.jpg", "remote": "https://wildsmithskin.com/cdn/shop/files/Heckfield_hero_v2_1060x.jpg", "caption": "Heckfield Place estate hero"},
+        {"local": "wildsmith-5.jpg", "remote": "https://wildsmithskin.com/cdn/shop/files/Arboretum_4_c56c586c-601c-4707-b663-e9f484060bc4_1060x.jpg", "caption": "Heckfield arboretum trees"}
+      ]
+    },
+
+    "apparatus": {
+      "name": "Apparatus Studio",
+      "city": "New York (HQ); galleries in NY, LA, London",
+      "founders": "Gabriel Hendifar + Jeremy Anderson (2012)",
+      "agency_or_creative_director": "Founder-led (Hendifar = Creative Director). 'Gesamtkunstwerk' philosophy — each collection is a total work of art. No external agency.",
+      "why_in_lyns_vector": "Modernist craft lighting. Aged brass, etched glass, hand-woven materials. London gallery now open. Same Marylebone/Belgravia clientele.",
+      "ph_online_application": "Apparatus presents each collection as a literary/dramatic 'world'. For PH: stop presenting fragrances as products and start presenting them as 'editions' with a literary or place-based world — a poem, a film, a paragraph of inspiration. Treat the digital release like an art gallery opening.",
+      "online": {"website": "https://apparatusstudio.com", "instagram": "@apparatusstudio"},
+      "images": [
+        {"local": "apparatus-1.jpg", "remote": "https://apparatusstudio.com/cdn/shop/files/APPARATUS_EPISODE_CHAIR_01.jpg", "caption": "Apparatus Episode chair"},
+        {"local": "apparatus-2.jpg", "remote": "https://apparatusstudio.com/cdn/shop/files/APPARATUS_EPISODE_ARMCHAIR_01.jpg", "caption": "Episode armchair"},
+        {"local": "apparatus-3.jpg", "remote": "https://apparatusstudio.com/cdn/shop/files/APPARATUS_EPISODE_HALL_CHAIR_01.jpg", "caption": "Episode hall chair"}
+      ]
+    },
+
+    "roman-williams-guild": {
+      "name": "Roman and Williams Buildings & Interiors + The Guild",
+      "city": "New York",
+      "founders": "Robin Standefer + Stephen Alesch (2002; Guild retail opened 2017)",
+      "agency_or_creative_director": "Founder-led. Designed Ace Hotel, Boom Boom Room, Restoration Hardware locations, many private interiors. The Guild is their curated retail manifestation.",
+      "why_in_lyns_vector": "Old-world materials + craft, retail-as-gallery. La Mercerie restaurant inside Guild. Direct hospitality + retail + restaurant convergence — model PH could explore.",
+      "ph_online_application": "R&W treat the Guild website as a 'world' with multiple stories per object. For PH: build the digital storefront as a 'world tour' of the lab — not category > product but story > ingredient > person > scent.",
+      "online": {"website": "https://rwguild.com (redirects to romanandwilliams.com)", "instagram": "@roman_and_williams_"},
+      "images": [
+        {"local": "roman-williams-1.jpg", "remote": "https://romanandwilliams.com/cdn/shop/files/260224_Website_Global_HP_03.jpg", "caption": "R&W Guild homepage hero"},
+        {"local": "roman-williams-2.jpg", "remote": "https://romanandwilliams.com/cdn/shop/files/260224_Website_Global_HP_04.jpg", "caption": "R&W feature image"},
+        {"local": "roman-williams-3.jpg", "remote": "https://romanandwilliams.com/cdn/shop/files/260224_Website_Global_HP_10.jpg", "caption": "R&W Guild interior detail"},
+        {"local": "roman-williams-4.jpg", "remote": "https://romanandwilliams.com/cdn/shop/files/260224_Website_Global_HP_11.jpg", "caption": "R&W furniture vignette"},
+        {"local": "roman-williams-5.jpg", "remote": "https://romanandwilliams.com/cdn/shop/files/260306_Website_Global_HP_LM_01.jpg", "caption": "R&W La Mercerie restaurant"}
+      ]
+    },
+
+    "khaite": {
+      "name": "Khaite",
+      "city": "New York",
+      "founder": "Catherine Holstein (2016; CFDA American Womenswear Designer of the Year 2022, 2023)",
+      "agency_or_creative_director": "In-house creative direction by Holstein. No publicly-credited external agency for brand identity.",
+      "why_in_lyns_vector": "New York post-Phoebe-Philo quiet-luxury. Structured but soft. Hailey Bieber/Dakota Johnson dressing.",
+      "ph_online_application": "Khaite's site uses high-cinema-style fashion photography — long exposure, blurred motion, single dominant tone. For PH: borrow this cinematic photographic register for hero campaign images. Less 'product photography', more 'film still'.",
+      "online": {"website": "https://khaite.com", "instagram": "@khaite_newyork"},
+      "images": [
+        {"local": "khaite-1.jpg", "remote": "https://khaite.com/cdn/shop/files/P26_R1_Featured_NewArrivals_8309eb66-56b4-4efe-99da-eecaf3a3bfaa.jpg", "caption": "Khaite Pre-Fall 26 new arrivals hero"},
+        {"local": "khaite-2.jpg", "remote": "https://khaite.com/cdn/shop/files/P26_R1_Featured_WardrobeEdit_df175b8f-c1f3-45d1-a41e-563db63a5e11.jpg", "caption": "Khaite Pre-Fall 26 wardrobe edit"},
+        {"local": "khaite-3.jpg", "remote": "https://khaite.com/cdn/shop/files/F26_RelivetheRunway_MenuImage.jpg", "caption": "Khaite F26 runway"}
+      ]
+    },
+
+    "issey-miyake": {
+      "name": "Issey Miyake / Pleats Please",
+      "city": "Tokyo (HQ)",
+      "founder": "Issey Miyake (d. 2022)",
+      "agency_or_creative_director": "Current Creative Director: Satoshi Kondo. Long-running visual language by Taku Satoh and Daikoku Design Institute / Nippon Design Center on graphics. Daigo Daikoku contributes branding work for adjacent Miyake projects.",
+      "why_in_lyns_vector": "Japan-design lineage. Pleats Please = wearable origami, modular, ageless. Brand still represents the gold standard of fashion-as-research.",
+      "ph_online_application": "Miyake's site treats each garment as a 'system' with its own technical illustration. For PH: introduce technical illustrations / olfactory pyramid diagrams to product pages — make the science legible without making it cold.",
+      "online": {"website": "https://us.isseymiyake.com", "instagram": "@isseymiyakeofficial"},
+      "images": [
+        {"local": "issey-miyake-1.jpg", "remote": "https://us.isseymiyake.com/cdn/shop/files/2_HP_26SS_cps_top_pc_6-1_260420_1920x.jpg", "caption": "Issey Miyake homepage hero"},
+        {"local": "issey-miyake-2.jpg", "remote": "https://us.isseymiyake.com/cdn/shop/files/3_PL_top_2026may26_pc_1920x.jpg", "caption": "Pleats Please top page"},
+        {"local": "issey-miyake-3.jpg", "remote": "https://us.isseymiyake.com/cdn/shop/files/IM_top_2026may26_pc_f3f18d0b-658b-456b-9888-3d087558e165_1920x.jpg", "caption": "IM main label top"}
+      ]
+    },
+
+    "hender-scheme": {
+      "name": "Hender Scheme",
+      "city": "Tokyo (Asakusa workshop)",
+      "founder": "Ryo Kashiwazaki (2010)",
+      "agency_or_creative_director": "Founder-led; in-house. No external brand agency credited. Working from a leather-craft shokunin tradition.",
+      "why_in_lyns_vector": "Vegetable-tanned leather artistry. Genderless framework. Hand-sewn, Asakusa-made. Same craft + quiet positioning as PH.",
+      "ph_online_application": "Hender Scheme's website is minimal — relative image paths, gallery vibe. For PH: their structure of [Work / Shop / Sukima (sub-line)] is a useful precedent for splitting the bespoke fragrance commissions vs the core line on the site.",
+      "online": {"website": "https://henderscheme.com", "instagram": "@henderscheme"},
+      "images": []
+    },
+
+    "sou-sou": {
+      "name": "SOU・SOU",
+      "city": "Kyoto",
+      "founder": "Katsuji Wakisaka + team",
+      "agency_or_creative_director": "Founder-led (Wakisaka was the first Japanese designer at Marimekko — his graphic-pattern work is the foundation of the visual identity). In-house textile design studio.",
+      "why_in_lyns_vector": "'Creating a New Japanese Culture'. Tabi shoes, kimono, Japanese cotton in modern silhouettes. Strong colour + pattern — counterweight to the more restrained brands.",
+      "ph_online_application": "SOU·SOU shows that traditional craft + modern pattern + a clear cultural mission can work in e-commerce. For PH: name each fragrance edition with a specific neighbourhood/season/word in English AND in another language Lyn loves. Use translation as a layering device.",
+      "online": {"website": "https://www.sousou.co.jp", "instagram": "@sousoukyoto"},
+      "images": []
+    },
+
+    "gentle-monster-tamburins": {
+      "name": "Gentle Monster + Tamburins (IICOMBINED)",
+      "city": "Seoul (HQ); flagship Haus Nowhere Seoul (Sept 2025, 14 floors); also Haus Dosan",
+      "founders": "Hankook Kim founded Gentle Monster in 2011; Tamburins founded 2016 by the same creative team",
+      "agency_or_creative_director": "In-house IICOMBINED creative team (>2/3 of small team is art direction/storytelling — VERIFIED). Architecture for Tamburins Seongsu flagship: The System Lab + lighting by EONSLD — VERIFIED. Won Frame Awards Best Use of Light + Single-Brand Store 2024-2025.",
+      "why_in_lyns_vector": "Gentle Monster = the experiential-retail benchmark globally. Tamburins = fragrance + cosmetics treated as 'sensory art and beauty house'. Korea's most ambitious example of retail-as-museum. Even though more theatrical than PH, the principle of 'every store an evolving installation' is transferable.",
+      "ph_online_application": "Tamburins' website treats each scent as an art installation, with each collection getting its own micro-site/film. For PH: invest in one short film per fragrance release. Make the store change every quarter as a small installation, document it on Instagram with high-end stills not phone snaps.",
+      "online": {"website": "https://www.gentlemonster.com + https://en.tamburins.com", "instagram": "@gentlemonster / @tamburinsofficial"},
+      "images": [
+        {"local": "gentle-monster-1.jpg", "remote": "https://gm-prd-resource.gentlemonster.com/main/banner/844160776311460281/7096e70f-8026-4a87-b7c4-1207c0ce1375/main_global_pc_1920_990.jpg", "caption": "Gentle Monster 2026 Veggie Collection hero"},
+        {"local": "gentle-monster-2.jpg", "remote": "https://gm-prd-resource.gentlemonster.com/main/banner/798372671433820827/dce2ee4d-8824-4bd1-99f8-85e884166170/main_pc_1920*990.jpg", "caption": "Gentle Monster 2026 collection"},
+        {"local": "gentle-monster-3.jpg", "remote": "https://gm-prd-resource.gentlemonster.com/main/banner/770800970997325499/97311d97-035a-4002-95de-ba9eab0f8511/main_0_pc_3840_1980.jpg", "caption": "Gentle Monster Fall Collection"},
+        {"local": "gentle-monster-4.jpg", "remote": "https://gm-prd-resource.gentlemonster.com/main/banner/745797614844190277/849b4361-e36c-486c-a575-dc78871431f3/main_0_pc_3840*1980.jpg", "caption": "Gentle Monster Bold collection"},
+        {"local": "tamburins-1.jpg", "remote": "https://web-resource.tamburins.com/catalog/catalog/category_collection-summertails.jpg/da1dbed2-95f7-4ea9-9956-666f356c587c/category_collection-summertails.jpg", "caption": "Tamburins Summer Tails collection"}
+      ]
+    },
+
+    "amomento": {
+      "name": "AMOMENTO",
+      "city": "Seoul",
+      "founder": "Lee Mee-Kung (2015 as Shop Amomento; 2016 as standalone brand)",
+      "agency_or_creative_director": "In-house, founder-led. No external agency credited publicly.",
+      "why_in_lyns_vector": "Korean quiet-minimalism. 'Thoughtful minimalism / introspective dressing'. Aiming to become 'first Korean heritage house' (Dazed, 2024). Premium fabrics, structured silhouettes.",
+      "ph_online_application": "AMOMENTO's seasonal campaigns are built around natural texture/wind/sand — sensory mood-board language. For PH: borrow this 'sensory texture' approach for seasonal IG editorials — a slow scroll of materials, not products.",
+      "online": {"website": "https://amomento.us / https://en.amomento.kr", "instagram": "@amomento.co"},
+      "images": [
+        {"local": "amomento-1.jpg", "remote": "https://amomentoweb.cafe24.com/renewal/index/2026-04-15/1-1.jpg", "caption": "AMOMENTO SS26 hero 1"},
+        {"local": "amomento-2.jpg", "remote": "https://amomentoweb.cafe24.com/renewal/index/2026-04-15/2-1.jpg", "caption": "AMOMENTO SS26 hero 2"},
+        {"local": "amomento-3.jpg", "remote": "https://amomentoweb.cafe24.com/renewal/index/2026-04-15/3-1.jpg", "caption": "AMOMENTO SS26 hero 3"},
+        {"local": "amomento-4.jpg", "remote": "https://amomentoweb.cafe24.com/renewal/index/2026-04-15/1-2.jpg", "caption": "AMOMENTO SS26 alt"}
+      ]
+    },
+
+    "andersson-bell": {
+      "name": "Andersson Bell",
+      "city": "Seoul (2014)",
+      "founder": "Dohun Kim",
+      "agency_or_creative_director": "Founder-led. Inspired by Cindy Sherman + Jonathan Green. Only Korean brand with main show at Milan Men's Fashion Week (since 2023).",
+      "why_in_lyns_vector": "Korea x Scandinavia cross-cultural design. Disparate-opposite-combination concept — 'yesteryear meets tomorrow'.",
+      "ph_online_application": "Andersson Bell's editorial features artistic photography over product. For PH: the seasonal campaign could lean into a 'photographic art commission' format — pair PH with an artist (photographer/illustrator) each season for an editorial that's published as a free zine.",
+      "online": {"website": "https://adsb.co.kr", "instagram": "@anderssonbell"},
+      "images": [
+        {"local": "andersson-bell-1.jpg", "remote": "https://adsb.co.kr/cdn/shop/files/w_pc_5e8d460a-8c12-49ae-bdd1-dbd3f055f794.jpg", "caption": "Andersson Bell women's campaign"},
+        {"local": "andersson-bell-2.jpg", "remote": "https://adsb.co.kr/cdn/shop/files/andersson-bell-rhino-tie-dye-print-shirts-atb946m-multi-41552198500657.jpg", "caption": "Rhino tie-dye print shirts"}
+      ]
+    },
+
+    "la-garconne": {
+      "name": "La Garçonne",
+      "city": "New York (Tribeca + Amagansett)",
+      "founder_curator": "Kris Kim (2005)",
+      "agency_or_creative_director": "Founder-led; in-house art direction. Multi-brand retailer with curatorial point of view. Stocks Casey Casey, Lemaire, Margaret Howell, Jil Sander, Yohji Yamamoto, Acne and others — i.e. literally Lyn's exact reference set.",
+      "why_in_lyns_vector": "La Garçonne is essentially a physical/digital embodiment of Lyn's reference brand list. If PH wanted to understand the cross-merchandising of this aesthetic family in retail, La Garçonne is the test bed. Strong editorial-style site.",
+      "ph_online_application": "La Garçonne's homepage rotates one brand per slot, not one product. For PH digital: instead of 'shop fragrance', present 'partner houses' — Margaret Howell + PH, Toogood + PH — as merchandising stories. Position PH inside the curatorial set rather than alone.",
+      "online": {"website": "https://lagarconne.com", "instagram": "@lagarconne_official"},
+      "images": [
+        {"local": "la-garconne-1.png", "remote": "https://lagarconne.com/cdn/shop/files/HP_2.png", "caption": "La Garçonne SS26 hero"},
+        {"local": "la-garconne-2.png", "remote": "https://lagarconne.com/cdn/shop/files/HP_2_4340d9aa-fd85-4b91-a888-cf6d0aed9d24.png", "caption": "La Garçonne SS26 hero 2"}
+      ]
+    },
+
+    "tortoise-general-store": {
+      "name": "Tortoise General Store",
+      "city": "Los Angeles (Venice Blvd, Mar Vista) since 2003",
+      "founders": "Keiko + Taku Shinomoto (moved LA via Tokyo)",
+      "agency_or_creative_director": "Founder-led. Mr. Shinomoto is also Creative Director of HASAMI PORCELAIN. Strong curated Japanese-craft-in-LA positioning.",
+      "why_in_lyns_vector": "Hybrid US/Japan craft retail. Tools-for-daily-life philosophy. Same audience as Galerie Half + PH.",
+      "ph_online_application": "Tortoise's website organises by Japanese maker, not by category. For PH: organise digital product not by 'eau de parfum / candle / body' but by 'who made it / where the materials are from'.",
+      "online": {"website": "https://shop.tortoisegeneralstore.com", "instagram": "@tortoisegeneralstore"},
+      "images": [
+        {"local": "tortoise-1.jpg", "remote": "https://shop.tortoisegeneralstore.com/cdn/shop/files/ssan-collection.jpg", "caption": "Ssan collection display"},
+        {"local": "tortoise-2.jpg", "remote": "https://shop.tortoisegeneralstore.com/cdn/shop/files/tomoro-pottery.jpg", "caption": "Tomoro pottery"},
+        {"local": "tortoise-3.jpg", "remote": "https://shop.tortoisegeneralstore.com/cdn/shop/files/TGS_white3.jpg", "caption": "Store interior"},
+        {"local": "tortoise-4.jpg", "remote": "https://shop.tortoisegeneralstore.com/cdn/shop/files/8E4A2210_1512x_6bc42c8b-18ef-421d-b89a-d08d61f88322.jpg", "caption": "Sori Yanagi display"}
+      ]
+    },
+
+    "acne-studios": {
+      "name": "Acne Studios",
+      "city": "Stockholm",
+      "founder": "Jonny Johansson (1996)",
+      "agency_or_creative_director": "Jonny Johansson Creative Director (in-house). Acne Paper publication = a separate magazine arm. 30th anniversary in 2025. Reopened Palais Royal Paris boutique as a living gallery for Acne Paper exhibitions.",
+      "why_in_lyns_vector": "Quiet luxury with art-school edge. Acne Paper magazine model = a fashion house publishing its own cultural review. Direct precedent for PH journal/magazine ambitions.",
+      "ph_online_application": "Borrow the Acne Paper model: PH should produce a biannual / annual physical printed magazine — not a content blog. Let it be cultural, not product-promoting. Distribute through Liberty / Hatchards / select bookshops.",
+      "online": {"website": "https://www.acnestudios.com", "instagram": "@acnestudios"},
+      "images": [
+        {"local": "acne-1.jpg", "remote": "https://www.acnestudios.com/on/demandware.static/-/Library-Sites-acne/default/dw3e4d70bd/home/2026/w23/shop-woman-d.jpg", "caption": "Acne SS26 woman campaign"},
+        {"local": "acne-2.jpg", "remote": "https://www.acnestudios.com/on/demandware.static/-/Library-Sites-acne/default/dw8e01cf84/home/2026/w23/shop-man-d.jpg", "caption": "Acne SS26 man campaign"}
+      ]
+    }
+  },
+
+  "agencies": [
+    {
+      "name": "Atelier Dyakova",
+      "location": "London (Deptford)",
+      "founder": "Sonya Dyakova (ex-Phaidon, ex-Frieze, Tokyo Type Directors Club Grand Prix 2011)",
+      "key_clients": ["Lemaire", "Noma", "Galerie Molitor (Berlin)", "The Approach (London)", "Niccolò Pasqualetti", "Tove", "The Met (NY) publications"],
+      "what_they_do_thats_rare": "They do typographic surgery — the slim geometric LEMAIRE wordmark is theirs. They treat books, websites, packaging as one continuous typographic environment.",
+      "instagram": "@atelierdyakova"
+    },
+    {
+      "name": "Studio Small (StudioSmall)",
+      "location": "London",
+      "founders": "David Hitner + Guy Marshall",
+      "key_clients": ["Margaret Howell (10+ years)", "Anglepoise", "Tate Modern (occasional)"],
+      "what_they_do_thats_rare": "Pared-back graphic identity, store signage, all-print collateral. Decade-plus relationships, not project-by-project. The reason Margaret Howell still feels coherent across 50+ years.",
+      "instagram": "@studiosmall"
+    },
+    {
+      "name": "Made Thought",
+      "location": "London + New York",
+      "founders": "Ben Parker + Paul Austin (2000)",
+      "key_clients": ["Wildsmith Skin", "Heckfield Place", "Fred Perry", "Naim Audio"],
+      "what_they_do_thats_rare": "Beauty + hospitality branding that doesn't look 'beauty-or-hospitality'. Pioneered mycelium packaging design with Wildsmith. Editorial-tone copywriting paired with restrained type.",
+      "instagram": "@madethought"
+    },
+    {
+      "name": "A Practice For Everyday Life (APFEL)",
+      "location": "London (Bethnal Green)",
+      "founders": "Kirsty Carter + Emma Thomas (2003); co-Presidents of AGI UK Chapter",
+      "key_clients": ["Toogood (website + identity)", "V&A", "Camper", "ELLE", "Galderma"],
+      "what_they_do_thats_rare": "Custom typefaces for cultural institutions. The Toogood website (datocms-hosted, slow-scroll, type-led) is one of the most-copied 'art studio that sells things' templates in the UK right now.",
+      "instagram": "@apracticeforeverydaylife"
+    },
+    {
+      "name": "OK-RM",
+      "location": "London",
+      "founders": "Oliver Knight + Rory McGrath (2008)",
+      "key_clients": ["JW Anderson (occasional)", "Kenzo", "1017 ALYX 9SM", "Lisson Gallery", "The Met", "Tate", "The Hepworth Wakefield", "Sternberg Press"],
+      "what_they_do_thats_rare": "Sit at the intersection of art-institution + fashion. Editorial bookwork is their core. The kind of studio Perfumer H would commission for a coffee-table monograph or limited art-book pairing.",
+      "instagram": "@okrm_london"
+    },
+    {
+      "name": "M/M (Paris)",
+      "location": "Paris",
+      "founders": "Mathias Augustyniak + Michael Amzalag (1992)",
+      "key_clients": ["JW Anderson (20+ years)", "Loewe (Anderson era)", "Vogue Paris (historic)", "Björk", "Yohji Yamamoto"],
+      "what_they_do_thats_rare": "Bridge between art-world and fashion-world. Big concepts, hand-drawn type, monumental campaigns. Probably the most-decorated studio on this list internationally.",
+      "instagram": "@mmparis"
+    },
+    {
+      "name": "Atelier Franck Durand",
+      "location": "Paris (2nd arrondissement)",
+      "founder": "Franck Durand",
+      "key_clients": ["Holiday magazine (relaunch + ongoing creative direction)", "Isabel Marant", "Hermès (consulting)", "Holiday Boileau clothing line", "Holiday Café Paris"],
+      "what_they_do_thats_rare": "Magazine-creative-director-as-brand-builder. Durand took Holiday from a forgotten 1946 title and turned it into a multi-platform brand (mag + clothing + café). Closest international peer to where PH journal could go.",
+      "instagram": "@franckdurand"
+    },
+    {
+      "name": "Mucho",
+      "location": "Barcelona (HQ), with Berlin, NYC, London, SF, Melbourne",
+      "founders": "Pablo Juncadella + Marc Catala (2002)",
+      "key_clients": ["Facebook", "Sonos", "The Met", "Airbnb", "Visa", "Movistar+", "The Observer (redesign)"],
+      "what_they_do_thats_rare": "International multi-city studio with strong editorial roots (The Observer redesign was their start). Type-led but big enough to handle a global rebrand.",
+      "instagram": "@wearemucho"
+    },
+    {
+      "name": "Pentagram",
+      "location": "London + NY + global",
+      "key_partners_uk": "William Russell (Margaret Howell stores), Domenic Lippa, Marina Willer, Naresh Ramchandani",
+      "key_clients_in_vector": ["Margaret Howell store interiors + Paris store", "Alexander McQueen (Russell's era)", "Tate", "COS"],
+      "what_they_do_thats_rare": "The largest independent design consultancy globally. For PH this is overkill — but worth knowing William Russell at Pentagram is the architect for Margaret Howell's calm interiors.",
+      "instagram": "@pentagramdesign"
+    },
+    {
+      "name": "Two Times Elliott",
+      "location": "London",
+      "founders": "Established UK design consultancy (Behance / portfolio under same name)",
+      "key_clients": ["Disrepute (Soho members bar)", "Kettle Kids (luxury watch dealership)", "The Dayrooms (Notting Hill womenswear)", "Paist (oral care)"],
+      "what_they_do_thats_rare": "Smaller, lifestyle/fashion-leaning London studio. Strong with luxury-hospitality and curated retail identity. Suited to a project like a PH 'house' refresh that's not big enough for Made Thought.",
+      "instagram": "@twotimeselliott"
+    },
+    {
+      "name": "Sawdust",
+      "location": "London (Bethnal Green)",
+      "founders": "Rob Gonzalez + Jonathan Quainton (2006)",
+      "key_clients": ["Apple", "Nike", "Netflix", "Wired", "NASA", "Converse (logo redesign)", "Esquire", "Ace Hotel"],
+      "what_they_do_thats_rare": "Two-person typographic studio. Bespoke typography + image-making. Useful for PH if commissioning a custom wordmark refresh or a custom type family for the Journal.",
+      "instagram": "@sawdust"
+    },
+    {
+      "name": "Daikoku Design Institute",
+      "location": "Tokyo + Los Angeles",
+      "founder": "Daigo Daikoku (b.1979 Hiroshima; started DDI in 2011 after NDC)",
+      "key_clients": ["Takao 599 Museum", "PRISTINE (organic cotton)", "The Art of Bloom", "Musashino Art University", "Japan House LA exhibitions"],
+      "what_they_do_thats_rare": "Highest-decorated Japanese graphic designer in his cohort (D&AD, NY ADC, Tokyo ADC Hiromu Hara award). 2D-into-3D-into-space + moving-image — uniquely well-suited to a brand like PH that wants to exist across the lab, store, web, film.",
+      "instagram": "@daigodaikoku"
+    },
+    {
+      "name": "Studio fnt",
+      "location": "Seoul",
+      "founders": "Heesun Kim + Jaemin Lee + Woogyung Geel (2006)",
+      "key_clients": ["Hyundai Department Store", "Bucheon International Fantastic Film Festival", "Typojanchi: International Typography Biennale", "Buk Seoul Museum of Art", "MMCA Korea", "Daechung Park cafe"],
+      "what_they_do_thats_rare": "Top-tier Korean type + cultural-institution work. Worth knowing if PH ever wants Korean-localised digital content with credibility.",
+      "instagram": "@studio.fnt"
+    },
+    {
+      "name": "Sanchez Benton (architects)",
+      "location": "London",
+      "key_clients_in_vector": ["JW Anderson Pimlico Road store (2025)", "JW Anderson Soho", "JW Anderson Milan"],
+      "what_they_do_thats_rare": "Architects, not graphic designers, but worth noting: they're the practice currently defining what 'JW Anderson retail' looks like — Shaker-cue interiors, velvet panels, brick, warm enveloping light. If PH ever does a new Marylebone fitout, this is the lineage to study.",
+      "instagram": "@sanchezbenton"
+    }
+  ],
+
+  "unverified_or_flagged": [
+    {"item": "'mastermind' magazine — brief stated 'Hyung Kyoo Choi, Berlin/Korea'. NOT VERIFIED. The mastermind magazine I found is Paris-based (Marie-Amélie Sauvé, 2017). Either Lyn means a different mastermind (possibly the Korean streetwear brand MASTERMIND JAPAN, or a separate Korean cultural publication), OR the original brief had the wrong attribution. RECOMMEND asking Lyn directly."},
+    {"item": "'Gentleman' magazine — not resolved. Multiple candidates (UK 'The Gentleman Magazine', 'Gentleman's Journal', German Herrenjournal historic). RECOMMEND asking Lyn directly."},
+    {"item": "'Neptune' magazine — not resolved. Candidates: Neptune Yachting Moteur (FR), or Neptune UK homeware brand's customer journal. RECOMMEND asking Lyn directly."},
+    {"item": "Kennedy magazine — brief said Australian, but it is in fact Athens, Greece-based (founder/editor Chris Kontos). Correcting the record."},
+    {"item": "'Studio Bumsuk' (Seoul) — could not verify as a graphic design studio. No public-facing studio under that exact name. Listed Studio fnt as the Korean equivalent instead."},
+    {"item": "'Cap Studio' (Tokyo) — could not verify. No clear graphic-design studio under that name. Listed Daikoku Design Institute as the strongest Tokyo equivalent."},
+    {"item": "Image: andersson-bell images came back at lower resolution than ideal (original CDN serves 300x300 thumbnails by default). Got one at ~280KB which is acceptable. Hender Scheme: site uses relative image paths, couldn't extract direct image URLs — recommend an Instagram fetch later."},
+    {"item": "The Row brand identity agency — couldn't confirm an external graphic-design agency. Olsens have always kept this in-house. Jacques Grange is the architect/interior designer, not the brand identity designer."},
+    {"item": "Galerie Half website/agency credit — couldn't confirm a specific design agency for the website. Likely small-studio or in-house with photography by D.Baum (credited in image filenames)."},
+    {"item": "Folk, Wax London, Studio Nicholson, Casey Casey, Khaite, AMOMENTO — brand identity studios not publicly credited. Likely in-house. Worth confirming directly if PH wants to approach the same designer."}
+  ],
+
+  "perfumer_h_context_for_thom": {
+    "summary": "PH is founded by Lyn Harris (2015, Marylebone, Crawford Street). Britain's first trained female perfumer, trained Robertet in Grasse. Previous brand: Miller Harris. PH explores artisanal perfumery — bespoke commissions up to £15,000. Site: https://www.perfumerh.com. Instagram: @perfumerhlondon.",
+    "current_digital_tone_observed": "Steam refresh hero, Jingmai plantation forest narrative, handblown candles, Japanese incense. Mix of editorial storytelling and shop. Strong narrative bones already — needs sharper typographic/photographic discipline to compete with the Lyn-vector benchmark brands."
+  }
+}
