@@ -1,0 +1,1286 @@
+[
+ {
+  "model": "google/nano-banana-2",
+  "test": "T2",
+  "status": "ok",
+  "file": "nano-banana-2__T2.jpeg",
+  "output_url": "https://replicate.delivery/xezq/6a0nneJYlfsBBETSHmA6nKCfqtXIWZDOYmfkWY3Ikym2vs3aB/tmpd5xdhuqp.jpeg",
+  "predict_time": 20.303033652,
+  "wall_time": 21.8,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "google/nano-banana-2",
+  "test": "T1",
+  "status": "ok",
+  "file": "nano-banana-2__T1.jpeg",
+  "output_url": "https://replicate.delivery/xezq/iRepcxcvwt3WPycVacqnXhnzGaB9hZvinQs1efr4IgYGZ2btA/tmpj0pomfrr.jpeg",
+  "predict_time": 12.222699725,
+  "wall_time": 13.9,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "google/nano-banana-2",
+  "test": "T4",
+  "status": "ok",
+  "file": "nano-banana-2__T4.jpeg",
+  "output_url": "https://replicate.delivery/xezq/NfndkwoHuo0BVCPKTE2kGjMNfq8e61uoCwFeiR7s3DkAzs3aB/tmp30oo7gwb.jpeg",
+  "predict_time": 12.220832842,
+  "wall_time": 13.0,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-pro",
+  "test": "T1",
+  "status": "ok",
+  "file": "flux-2-pro__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/LntPr5vfdkR3AKkNv8Oo0v9ufOrVBq5kJUwU3SNF4vRAN7tWA/tmpk_cbulyq.jpg",
+  "predict_time": 15.504745106,
+  "wall_time": 16.8,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-pro",
+  "test": "T4",
+  "status": "ok",
+  "file": "flux-2-pro__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/88AUAkyuaO6eQaTBQgOHtMLl7fjF3s7tPl2ZmwK6c30mN7tWA/tmpi8chl03d.jpg",
+  "predict_time": 18.743259879,
+  "wall_time": 19.4,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-kontext-max",
+  "test": "T1",
+  "status": "ok",
+  "file": "flux-kontext-max__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/CI5Z7AVNFtrgEBWTAzEkxF2fIqjZQPerO6XtNYZLfO1ld2btA/tmpcf03tt3w.jpg",
+  "predict_time": 11.747173716,
+  "wall_time": 12.8,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_image": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-kontext-max",
+  "test": "T2",
+  "status": "ok",
+  "file": "flux-kontext-max__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/ZleMVA8z7934AKu2gB5mMcbcKxwLpU4ZVPJtPhziuW2fO7tWA/tmpnt4kzxnv.jpg",
+  "predict_time": 12.123623408,
+  "wall_time": 13.2,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube. (Style note: emulate East London Liquor Co. campaign art direction from description alone.)",
+   "input_image": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-kontext-max",
+  "test": "T4",
+  "status": "ok",
+  "file": "flux-kontext-max__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/8fb57EbfKRhhgEaTie4TcO7CNLvoTN5imXR6h2lY1dXXes3aB/tmp96i1m1q5.jpg",
+  "predict_time": 11.209006804,
+  "wall_time": 12.1,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_image": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "aspect_ratio": "1:1",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "bytedance/seedream-4",
+  "test": "T1",
+  "status": "ok",
+  "file": "seedream-4__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/vWKxtngffOqvKUhfmedResrzCESyKpGIzlXwpE0GrcjV9Zv1C/tmp3hvvtn87.jpg",
+  "predict_time": 29.113430941,
+  "wall_time": 30.3,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "size": "2K"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4",
+  "test": "T2",
+  "status": "ok",
+  "file": "seedream-4__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/tF0VlKzvgUZHDNWj6uEM5BxtDvkz0BXRv5XZVgX17LKI0eWLA/tmpznl8_mnr.jpg",
+  "predict_time": 53.45937924,
+  "wall_time": 55.1,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "size": "2K"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4",
+  "test": "T4",
+  "status": "ok",
+  "file": "seedream-4__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/8fLTm6I2iPyLX60oC5Zu0VVt5jaNJWOKv6AZetYFzgw1Q7tWA/tmppcld5jhu.jpg",
+  "predict_time": 19.454906357,
+  "wall_time": 20.3,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "size": "2K"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1",
+  "test": "T1",
+  "status": "error",
+  "error": "{\"detail\":\"- input: openai_api_key is required\\n\",\"status\":422,\"title\":\"Input validation failed\",\"invalid_fields\":[{\"type\":\"required\",\"field\":\"input\",\"description\":\"openai_api_key is required\"}]}\n"
+ },
+ {
+  "model": "openai/gpt-image-1",
+  "test": "T2",
+  "status": "error",
+  "error": "{\"detail\":\"- input: openai_api_key is required\\n\",\"status\":422,\"title\":\"Input validation failed\",\"invalid_fields\":[{\"type\":\"required\",\"field\":\"input\",\"description\":\"openai_api_key is required\"}]}\n"
+ },
+ {
+  "model": "openai/gpt-image-1",
+  "test": "T4",
+  "status": "error",
+  "error": "{\"detail\":\"- input: openai_api_key is required\\n\",\"status\":422,\"title\":\"Input validation failed\",\"invalid_fields\":[{\"type\":\"required\",\"field\":\"input\",\"description\":\"openai_api_key is required\"}]}\n"
+ },
+ {
+  "model": "luma/photon",
+  "test": "T1",
+  "status": "ok",
+  "file": "photon__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/oQx3GQm5LTpBN5GhGcMjk9f1M4irs2BLzWnRuN4NDYXno9WLA/tmpwppyfxja.jpg",
+  "predict_time": 19.939325999,
+  "wall_time": 21.2,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "1:1",
+   "image_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "image_reference_weight": 0.9
+  }
+ },
+ {
+  "model": "luma/photon",
+  "test": "T2",
+  "status": "ok",
+  "file": "photon__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/FnqtLv5k3ibnGtyCpjvkeVIEnXShg6uWK4MkEGqfnY1jR7tWA/tmpacfpq19i.jpg",
+  "predict_time": 19.201968742,
+  "wall_time": 20.2,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "1:1",
+   "image_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "image_reference_weight": 0.9,
+   "style_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+   "style_reference_weight": 0.8
+  }
+ },
+ {
+  "model": "luma/photon",
+  "test": "T4",
+  "status": "ok",
+  "file": "photon__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/LIe3pIsVr6waJqcFsJZmkLiwWk63WVPNcPeSePjIQqhfHt3aB/tmpjeva2jox.jpg",
+  "predict_time": 27.412369528,
+  "wall_time": 28.3,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "1:1",
+   "image_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "image_reference_weight": 0.9
+  }
+ },
+ {
+  "model": "google/nano-banana-2",
+  "test": "T3",
+  "status": "ok",
+  "file": "nano-banana-2__T3.jpeg",
+  "output_url": "https://replicate.delivery/xezq/WYplg3I2W2LpPhvhobO0erm6dTxmApveBJaWRQfLRP1ak2btA/tmpt07mzulp.jpeg",
+  "predict_time": 12.497178402,
+  "wall_time": 13.5,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image_input": [
+    "https://replicate.delivery/xezq/6a0nneJYlfsBBETSHmA6nKCfqtXIWZDOYmfkWY3Ikym2vs3aB/tmpd5xdhuqp.jpeg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-kontext-max",
+  "test": "T3",
+  "status": "ok",
+  "file": "flux-kontext-max__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/RLcathGgsEboFNtMdm8FtDje9dRl4ReSJT3PsJZiQNaRT7tWA/tmpqcf4jlh1.jpg",
+  "predict_time": 9.39718503,
+  "wall_time": 10.7,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_image": "https://replicate.delivery/xezq/ZleMVA8z7934AKu2gB5mMcbcKxwLpU4ZVPJtPhziuW2fO7tWA/tmpnt4kzxnv.jpg",
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "bytedance/seedream-4",
+  "test": "T3",
+  "status": "ok",
+  "file": "seedream-4__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/tE4zfW0vxfn6nUDXfMrX4CYCFQpJo9FBpq2I38See62ndav1C/tmpp7jbxisn.jpg",
+  "predict_time": 24.874855483,
+  "wall_time": 26.2,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image_input": [
+    "https://replicate.delivery/xezq/tF0VlKzvgUZHDNWj6uEM5BxtDvkz0BXRv5XZVgX17LKI0eWLA/tmpznl8_mnr.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "size": "2K"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1",
+  "test": "T3",
+  "status": "skipped",
+  "error": "missing T2 output"
+ },
+ {
+  "model": "luma/photon",
+  "test": "T3",
+  "status": "ok",
+  "file": "photon__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/JSFbEVfJFa1DMSgpOJMUR5S9ztKVf3HK0Yhqo2PXsE7en2btA/tmpbrm419py.jpg",
+  "predict_time": 17.356092795,
+  "wall_time": 18.7,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "aspect_ratio": "1:1",
+   "image_reference_url": "https://replicate.delivery/xezq/FnqtLv5k3ibnGtyCpjvkeVIEnXShg6uWK4MkEGqfnY1jR7tWA/tmpacfpq19i.jpg",
+   "image_reference_weight": 0.9
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-max",
+  "test": "T1",
+  "status": "ok",
+  "file": "flux-2-max__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/PjWm58L0kWaUK5pLpVedM4MpASnCT1t0jYXj2vNri2HYq9WLA/tmpjy3sm2z8.jpg",
+  "predict_time": 30.117375192,
+  "wall_time": 30.8,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-pro",
+  "test": "T2",
+  "status": "ok",
+  "file": "flux-2-pro__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/jwvXufb4emrlwUiVEqK6vVuqLBIUI1vlm66ehVKTbKDCs2btA/tmpq_8a4k42.jpg",
+  "predict_time": 20.269311848,
+  "wall_time": 21.0,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-max",
+  "test": "T2",
+  "status": "ok",
+  "file": "flux-2-max__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/8fFYlSYB5xVzY61eZ53MbRppZCVX7rK6losngCc4vdeCt2btA/tmp0n88h_qm.jpg",
+  "predict_time": 31.652893642,
+  "wall_time": 32.5,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-max",
+  "test": "T4",
+  "status": "ok",
+  "file": "flux-2-max__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/FQQ6GJwAcewBMampzzBWyRWk8dulT3otojf6quSxa4JCX7tWA/tmp3_unkc2a.jpg",
+  "predict_time": 31.405055077,
+  "wall_time": 32.3,
+  "input_used": {
+   "prompt": "Detailed close-up product photograph of the open Phatstix tube, transparent lid set aside: the solid cream-coloured balm surface fills the upper frame with visible dense matte wax texture, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "ideogram-ai/ideogram-v3-quality",
+  "test": "T1",
+  "status": "ok",
+  "file": "ideogram-v3-quality__T1.png",
+  "output_url": "https://replicate.delivery/xezq/rHkLbzSLIQ6NJR94nTRIytrPDn0l2e6caAPmy13U35Nnr9WLA/tmpoqf92o_f.png",
+  "predict_time": 11.040480983,
+  "wall_time": 11.8,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "4:5",
+   "style_type": "Auto",
+   "style_reference_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ]
+  }
+ },
+ {
+  "model": "ideogram-ai/ideogram-v3-quality",
+  "test": "T2",
+  "status": "ok",
+  "file": "ideogram-v3-quality__T2.png",
+  "output_url": "https://replicate.delivery/xezq/k6iVnb2UwKJTIB6LDDPPYR21ix69mg5qBnk6ztTce95tr9WLA/tmpki64v3tf.png",
+  "predict_time": 12.328758919,
+  "wall_time": 13.3,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "4:5",
+   "style_type": "Auto",
+   "style_reference_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ]
+  }
+ },
+ {
+  "model": "ideogram-ai/ideogram-v3-quality",
+  "test": "T4",
+  "status": "ok",
+  "file": "ideogram-v3-quality__T4.png",
+  "output_url": "https://replicate.delivery/xezq/y0CPjtbraewfTEVdJLCEXbeDw9ZB34OhGpjb580VnLEOv2btA/tmp1u7nnapw.png",
+  "predict_time": 11.314187626,
+  "wall_time": 12.2,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "1:1",
+   "style_type": "Auto",
+   "style_reference_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ]
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-pro",
+  "test": "T3",
+  "status": "ok",
+  "file": "flux-2-pro__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/niNs7CvP7no9KZKptkEg1RlJDhYXXeIH2FADqK3IyU96r9WLA/tmpj7xwv4rl.jpg",
+  "predict_time": 12.992653384,
+  "wall_time": 13.9,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_images": [
+    "https://replicate.delivery/xezq/jwvXufb4emrlwUiVEqK6vVuqLBIUI1vlm66ehVKTbKDCs2btA/tmpq_8a4k42.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-max",
+  "test": "T3",
+  "status": "ok",
+  "file": "flux-2-max__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/39D1BKFeZ62pCyB9HQjRulxpShoWqfrKmaaWB2TmALhfw2btA/tmp1qu3sn14.jpg",
+  "predict_time": 40.831289164,
+  "wall_time": 41.7,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_images": [
+    "https://replicate.delivery/xezq/8fFYlSYB5xVzY61eZ53MbRppZCVX7rK6losngCc4vdeCt2btA/tmp0n88h_qm.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "ideogram-ai/ideogram-v3-quality",
+  "test": "T3",
+  "status": "ok",
+  "file": "ideogram-v3-quality__T3.png",
+  "output_url": "https://replicate.delivery/xezq/YGezdWaEc52KNajqgqq7ZWyWBxZHyKL7mM62oPSmjuJXs9WLA/tmpq9hh8gmp.png",
+  "predict_time": 14.969928510999999,
+  "wall_time": 15.9,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "aspect_ratio": "4:5",
+   "style_type": "Auto",
+   "style_reference_images": [
+    "https://replicate.delivery/xezq/k6iVnb2UwKJTIB6LDDPPYR21ix69mg5qBnk6ztTce95tr9WLA/tmpki64v3tf.png"
+   ]
+  }
+ },
+ {
+  "model": "google/nano-banana-2",
+  "test": "T5",
+  "status": "ok",
+  "file": "nano-banana-2__T5.jpeg",
+  "output_url": "https://replicate.delivery/xezq/rQRgoRKqyipkDlfV2NWMqaLzEjLdZCnmpRRKSTKSmahns9WLA/tmpfs3bew4l.jpeg",
+  "predict_time": 15.703427355,
+  "wall_time": 16.4,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://api.replicate.com/v1/files/NjMxNDhiZTktNmEzNS00MTc0LTk2YjYtMTRlZTA0MGY2NDg0.jpg",
+    "https://api.replicate.com/v1/files/Y2E1MGY4ZjItYmIyNC00MWRiLTg5OTctN2U0NmJlNTQ5YTBk.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-pro",
+  "test": "T5",
+  "status": "ok",
+  "file": "flux-2-pro__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/NhMnqfzl2aTeJUNImNBxZnsaDNPE4bWkJewrQjKeZq7Ymt3aB/tmpnswrt9wc.jpg",
+  "predict_time": 21.609644401,
+  "wall_time": 22.3,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://api.replicate.com/v1/files/NjMxNDhiZTktNmEzNS00MTc0LTk2YjYtMTRlZTA0MGY2NDg0.jpg",
+    "https://api.replicate.com/v1/files/Y2E1MGY4ZjItYmIyNC00MWRiLTg5OTctN2U0NmJlNTQ5YTBk.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-max",
+  "test": "T5",
+  "status": "ok",
+  "file": "flux-2-max__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/sFIIGZ4ZHlJaGVe8lQ0jsThmWm5Gu0epShI4HkVfvJKU02btA/tmphpzmm_np.jpg",
+  "predict_time": 35.872432799,
+  "wall_time": 36.6,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://api.replicate.com/v1/files/NjMxNDhiZTktNmEzNS00MTc0LTk2YjYtMTRlZTA0MGY2NDg0.jpg",
+    "https://api.replicate.com/v1/files/Y2E1MGY4ZjItYmIyNC00MWRiLTg5OTctN2U0NmJlNTQ5YTBk.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-kontext-max",
+  "test": "T5",
+  "status": "ok",
+  "file": "flux-kontext-max__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/nz0oWW56RqJXGtY2O13xacJEzesas63VB61tvApJc4sLt9WLA/tmpwis8hgu4.jpg",
+  "predict_time": 11.864429913,
+  "wall_time": 12.6,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube. (Style note: emulate East London Liquor Co. campaign art direction from description alone.)",
+   "input_image": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "bytedance/seedream-4",
+  "test": "T5",
+  "status": "ok",
+  "file": "seedream-4__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/GyX4mn1o7EouCNlwhVmxOnDcbiore7knwH6YCfRNK4sEb7tWA/tmp4stuvhcz.jpg",
+  "predict_time": 44.096195778,
+  "wall_time": 45.5,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://api.replicate.com/v1/files/NjMxNDhiZTktNmEzNS00MTc0LTk2YjYtMTRlZTA0MGY2NDg0.jpg",
+    "https://api.replicate.com/v1/files/Y2E1MGY4ZjItYmIyNC00MWRiLTg5OTctN2U0NmJlNTQ5YTBk.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "size": "2K"
+  }
+ },
+ {
+  "model": "ideogram-ai/ideogram-v3-quality",
+  "test": "T5",
+  "status": "ok",
+  "file": "ideogram-v3-quality__T5.png",
+  "output_url": "https://replicate.delivery/xezq/wfSqldoNkQ0Lf0vEznMrGPZoLpL9zmzYAeer9UfNPrjZabv1C/tmpvq3mj1sg.png",
+  "predict_time": 13.760192948,
+  "wall_time": 14.8,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "4:5",
+   "style_type": "Auto",
+   "style_reference_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://api.replicate.com/v1/files/NjMxNDhiZTktNmEzNS00MTc0LTk2YjYtMTRlZTA0MGY2NDg0.jpg",
+    "https://api.replicate.com/v1/files/Y2E1MGY4ZjItYmIyNC00MWRiLTg5OTctN2U0NmJlNTQ5YTBk.jpg"
+   ]
+  }
+ },
+ {
+  "model": "luma/photon",
+  "test": "T5",
+  "status": "ok",
+  "file": "photon__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/REkyGWJNIewkCioAAqaQ0DPv7pE8nXXS9WUaEdvW0fwUd7tWA/tmpj4oqfq8k.jpg",
+  "predict_time": 16.658295914,
+  "wall_time": 18.2,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "aspect_ratio": "1:1",
+   "image_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+   "image_reference_weight": 0.9,
+   "style_reference_url": "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+   "style_reference_weight": 0.8
+  }
+ },
+ {
+  "model": "bytedance/seedream-4.5",
+  "test": "T1",
+  "status": "ok",
+  "file": "seedream-4.5__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/Olj5KLKOdTqTKJtGVLTwV3Fdp78C8ifaejKgcqlzhMeeKu3aB/tmp08okev3l.jpg",
+  "predict_time": 25.823274944,
+  "wall_time": 27.1,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4.5",
+  "test": "T2",
+  "status": "ok",
+  "file": "seedream-4.5__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/0V0Qq4qmGGaEHRXEFUNeHOeXXZUQfM1xd2xzQAiLnKfaOu3aB/tmpnd3mj3je.jpg",
+  "predict_time": 54.095285707,
+  "wall_time": 54.8,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4.5",
+  "test": "T4",
+  "status": "ok",
+  "file": "seedream-4.5__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/f9Bx6b0dlhSPGaPAj538T2VuIlqcE4dZYU70CQlsh3kCy9WLA/tmpc_kflqir.jpg",
+  "predict_time": 30.357973973,
+  "wall_time": 31.4,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4.5",
+  "test": "T5",
+  "status": "ok",
+  "file": "seedream-4.5__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/XPozwjPhLr7EO5CRD4397ZQGdqHckkROPCCa6lRl4OuN5eWLA/tmpr951j7za.jpg",
+  "predict_time": 48.446119961,
+  "wall_time": 49.3,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "4:5"
+  }
+ },
+ {
+  "model": "bytedance/seedream-5-lite",
+  "test": "T2",
+  "status": "ok",
+  "file": "seedream-5-lite__T2.png",
+  "output_url": "https://replicate.delivery/xezq/YIcHdmVm9QpsGJTccRT3QBjfN2Hr6b6Mx8lxxKlNSAkm39WLA/tmp7e0xt_j9.png",
+  "predict_time": 57.268801035,
+  "wall_time": 58.6,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "bytedance/seedream-5-lite",
+  "test": "T4",
+  "status": "ok",
+  "file": "seedream-5-lite__T4.png",
+  "output_url": "https://replicate.delivery/xezq/wiEiUqoOW8aTBJSnfpf6twDl9GvizqPxdvglM1P59EhEw7tWA/tmpbkjflaey.png",
+  "predict_time": 53.546785964,
+  "wall_time": 54.4,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "bytedance/seedream-5-lite",
+  "test": "T5",
+  "status": "ok",
+  "file": "seedream-5-lite__T5.png",
+  "output_url": "https://replicate.delivery/xezq/GTsi3QQmntYnKZXXemZrKDnyKT2snCj9osCG4pwpnVpj49WLA/tmpqhhw689y.png",
+  "predict_time": 66.637739012,
+  "wall_time": 70.6,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-flex",
+  "test": "T1",
+  "status": "ok",
+  "file": "flux-2-flex__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/vf8FBoF4GNSHYSxsW2Qr1IqC5TIMeswkgIeYhNjdZUd7i3btA/tmpuu0w7ii8.jpg",
+  "predict_time": 17.725419278,
+  "wall_time": 19.1,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-flex",
+  "test": "T2",
+  "status": "ok",
+  "file": "flux-2-flex__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/beD1tWuxAcXEfE38M3q60d32hamFUNgIePKepUGIkKzPHv3aB/tmp7p_4pug3.jpg",
+  "predict_time": 20.578287663,
+  "wall_time": 21.3,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-flex",
+  "test": "T5",
+  "status": "ok",
+  "file": "flux-2-flex__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/Th41TbtpfSxDGKdZP3kwUmSOn1YY6S5iOj40W6jqGf5Ty7tWA/tmpwz33o_1l.jpg",
+  "predict_time": 25.125856938,
+  "wall_time": 25.8,
+  "input_used": {
+   "prompt": "Image 1 shows THE PRODUCT to depict \u2014 reproduce it exactly. Images 2 and 3 show ONLY the campaign style to emulate; never depict the products from those images. Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "openai/gpt-image-2",
+  "test": "T1",
+  "status": "ok",
+  "file": "gpt-image-2__T1.jpeg",
+  "output_url": "https://replicate.delivery/xezq/QUD8qRjcjX7KJFSU29jdufpgoiw6lfcf5rzGoH1aaMhpp3btA/tmprji0e9tw.jpeg",
+  "predict_time": 157.261877545,
+  "wall_time": 161.3,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low"
+  }
+ },
+ {
+  "model": "openai/gpt-image-2",
+  "test": "T2",
+  "status": "ok",
+  "file": "gpt-image-2__T2.jpeg",
+  "output_url": "https://replicate.delivery/xezq/xQbuuV3cIgY3OJK3leegirsfGRGwmZTKQboLOkjHJifyeeeWLA/tmpbcf8682a.jpeg",
+  "predict_time": 179.921206883,
+  "wall_time": 183.8,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low"
+  }
+ },
+ {
+  "model": "openai/gpt-image-2",
+  "test": "T4",
+  "status": "ok",
+  "file": "gpt-image-2__T4.jpeg",
+  "output_url": "https://replicate.delivery/xezq/pCCVdsxetTyYUSfF0xcafSErRmgNoijUYKKA1NCqCsOO13btA/tmp_uf8cxne.jpeg",
+  "predict_time": 183.519123986,
+  "wall_time": 186.3,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low"
+  }
+ },
+ {
+  "model": "openai/gpt-image-2",
+  "test": "T5",
+  "status": "ok",
+  "file": "gpt-image-2__T5.jpeg",
+  "output_url": "https://replicate.delivery/xezq/WsV2BfEc4HQpSaqhisJAotljhepKf16hWFR1BMhcyfF63v3aB/tmpqqyzf82d.jpeg",
+  "predict_time": 210.905057614,
+  "wall_time": 213.4,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1.5",
+  "test": "T1",
+  "status": "ok",
+  "file": "gpt-image-1.5__T1.jpeg",
+  "output_url": "https://replicate.delivery/xezq/4zP5hnr6AQryMdIe5tahshsF9yKDpMtNfQBdF9h4oZS8e3btA/tmpr6o1f7hi.jpeg",
+  "predict_time": 60.162861425,
+  "wall_time": 64.6,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low",
+   "input_fidelity": "high"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1.5",
+  "test": "T2",
+  "status": "ok",
+  "file": "gpt-image-1.5__T2.jpeg",
+  "output_url": "https://replicate.delivery/xezq/w4bA2rqg8nYnB9DfAvPGft99tU7KAE8dj3auifqfiBFfff9WLA/tmpq0120ie3.jpeg",
+  "predict_time": 63.225286563,
+  "wall_time": 67.4,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low",
+   "input_fidelity": "high"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1.5",
+  "test": "T4",
+  "status": "ok",
+  "file": "gpt-image-1.5__T4.jpeg",
+  "output_url": "https://replicate.delivery/xezq/XalxFa5O6TpsO593Me76ygDUlKj66Zh2aU5cQ1ekf0BWC4btA/tmpk572omzr.jpeg",
+  "predict_time": 71.645857104,
+  "wall_time": 73.5,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low",
+   "input_fidelity": "high"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1.5",
+  "test": "T5",
+  "status": "ok",
+  "file": "gpt-image-1.5__T5.jpeg",
+  "output_url": "https://replicate.delivery/xezq/rInTEw5tiqr9P1Cg9Kom2yqEvCLepdVdvHSPLvsvo6yABetWA/tmpa96ks_12.jpeg",
+  "predict_time": 52.296591924,
+  "wall_time": 53.4,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "input_images": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low",
+   "input_fidelity": "high"
+  }
+ },
+ {
+  "model": "bytedance/seedream-4.5",
+  "test": "T3",
+  "status": "ok",
+  "file": "seedream-4.5__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/YsBVzPAQ6drfHKYZ1dgK2qgJaYM3bQX5x9HmeDha4mgRC8tWA/tmpc1imt630.jpg",
+  "predict_time": 14.433661811,
+  "wall_time": 15.9,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image_input": [
+    "https://replicate.delivery/xezq/0V0Qq4qmGGaEHRXEFUNeHOeXXZUQfM1xd2xzQAiLnKfaOu3aB/tmpnd3mj3je.jpg"
+   ],
+   "aspect_ratio": "4:5"
+  }
+ },
+ {
+  "model": "bytedance/seedream-5-lite",
+  "test": "T3",
+  "status": "ok",
+  "file": "seedream-5-lite__T3.png",
+  "output_url": "https://replicate.delivery/xezq/yslt3XfMs0zUQ6bewxjUttXMHrnq76syjuQjweKhN8u7G4btA/tmpf6iaj41_.png",
+  "predict_time": 74.125017728,
+  "wall_time": 77.8,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image_input": [
+    "https://replicate.delivery/xezq/YIcHdmVm9QpsGJTccRT3QBjfN2Hr6b6Mx8lxxKlNSAkm39WLA/tmp7e0xt_j9.png"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-flex",
+  "test": "T3",
+  "status": "ok",
+  "file": "flux-2-flex__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/zfyVG8XRWfpfIJlMSXguX6Z0lg8M8BPUKqJuZZcABjUfOw3aB/tmpvhosjugg.jpg",
+  "predict_time": 14.895321945,
+  "wall_time": 15.8,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_images": [
+    "https://replicate.delivery/xezq/beD1tWuxAcXEfE38M3q60d32hamFUNgIePKepUGIkKzPHv3aB/tmp7p_4pug3.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "safety_tolerance": 2
+  }
+ },
+ {
+  "model": "openai/gpt-image-2",
+  "test": "T3",
+  "status": "ok",
+  "file": "gpt-image-2__T3.jpeg",
+  "output_url": "https://replicate.delivery/xezq/r0C303ox63qrH9TK8cZOfBim8Hf9JsmQaMWQGjfxafkfygv1C/tmpejuzwa8s.jpeg",
+  "predict_time": 167.296740447,
+  "wall_time": 169.7,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_images": [
+    "https://replicate.delivery/xezq/xQbuuV3cIgY3OJK3leegirsfGRGwmZTKQboLOkjHJifyeeeWLA/tmpbcf8682a.jpeg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low"
+  }
+ },
+ {
+  "model": "openai/gpt-image-1.5",
+  "test": "T3",
+  "status": "ok",
+  "file": "gpt-image-1.5__T3.jpeg",
+  "output_url": "https://replicate.delivery/xezq/SG9LnfyACeirIUJu3QDdgCMrRfAdRZPvM29q86dWqYd9N4btA/tmp5jt01x0i.jpeg",
+  "predict_time": 36.170490348,
+  "wall_time": 37.2,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "input_images": [
+    "https://replicate.delivery/xezq/w4bA2rqg8nYnB9DfAvPGft99tU7KAE8dj3auifqfiBFfff9WLA/tmpq0120ie3.jpeg"
+   ],
+   "aspect_ratio": "1:1",
+   "quality": "high",
+   "output_format": "jpeg",
+   "number_of_images": 1,
+   "moderation": "low",
+   "input_fidelity": "high"
+  }
+ },
+ {
+  "model": "google/nano-banana-pro",
+  "test": "T1",
+  "status": "ok",
+  "file": "nano-banana-pro__T1.jpeg",
+  "output_url": "https://replicate.delivery/xezq/rnaj5zDCZsJCG1Bz993if1HnQdUoL4g9LOuKe3tdujPjH8tWA/tmpvwyrqcon.jpeg",
+  "predict_time": 28.36597962,
+  "wall_time": 29.6,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "resolution": "2K"
+  }
+ },
+ {
+  "model": "google/nano-banana-pro",
+  "test": "T2",
+  "status": "ok",
+  "file": "nano-banana-pro__T2.jpeg",
+  "output_url": "https://replicate.delivery/xezq/pbLnE2anocqbCtIXlPsj9RxYRPvfhKBTfxEZeHVUQouJQ4btA/tmp4d55bx_2.jpeg",
+  "predict_time": 32.304861598,
+  "wall_time": 33.0,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "resolution": "2K"
+  }
+ },
+ {
+  "model": "google/nano-banana-pro",
+  "test": "T4",
+  "status": "ok",
+  "file": "nano-banana-pro__T4.jpeg",
+  "output_url": "https://replicate.delivery/xezq/P2kLRyue2MxIECCEyYhGKIoS4AeNp5UVId3uRVr05nSfQ4btA/tmp1i1axabg.jpeg",
+  "predict_time": 26.725882643,
+  "wall_time": 27.5,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg",
+   "resolution": "2K"
+  }
+ },
+ {
+  "model": "google/nano-banana-pro",
+  "test": "T5",
+  "status": "ok",
+  "file": "nano-banana-pro__T5.jpeg",
+  "output_url": "https://replicate.delivery/xezq/bEtu4NyaZeXmfUNdeXZmaDcUuTVp9l5WGelyfcraBWhmJhv1C/tmp827svubx.jpeg",
+  "predict_time": 43.649908575,
+  "wall_time": 45.0,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "resolution": "2K"
+  }
+ },
+ {
+  "model": "google/nano-banana-pro",
+  "test": "T3",
+  "status": "ok",
+  "file": "nano-banana-pro__T3.jpeg",
+  "output_url": "https://replicate.delivery/xezq/g3oTZhbrFJonDBarabfGzIL6yDMaxtC7H4dfeXud5hcWT4btA/tmp8jjr6_vi.jpeg",
+  "predict_time": 30.284028495,
+  "wall_time": 31.1,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image_input": [
+    "https://replicate.delivery/xezq/pbLnE2anocqbCtIXlPsj9RxYRPvfhKBTfxEZeHVUQouJQ4btA/tmp4d55bx_2.jpeg"
+   ],
+   "aspect_ratio": "4:5",
+   "output_format": "jpg",
+   "resolution": "2K"
+  }
+ },
+ {
+  "model": "qwen/qwen-image-edit-2511",
+  "test": "T1",
+  "status": "ok",
+  "file": "qwen-image-edit-2511__T1.jpg",
+  "output_url": "https://replicate.delivery/xezq/ZJnIUsGy6OLfCaOlSFO7ygplSf9crpCmDX1T8s15IC18J8tWA/out-0.jpg",
+  "predict_time": 4.074599867,
+  "wall_time": 6.3,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "qwen/qwen-image-edit-2511",
+  "test": "T2",
+  "status": "ok",
+  "file": "qwen-image-edit-2511__T2.jpg",
+  "output_url": "https://replicate.delivery/xezq/r87X0WGNx3ofC6ZQL5QK6Jv9qDqexPZ9odOVaikbeQzNU4btA/out-0.jpg",
+  "predict_time": 8.874379456,
+  "wall_time": 10.0,
+  "input_used": {
+   "prompt": "Advertising campaign image in the exact graphic style of the East London Liquor Co. style references: off-white paper background, huge bold black condensed typography filling the frame reading 'FOR LIPS NOT THE SHELF', with the Phatstix tube lying diagonally across the type partially covering the letters, hand-sprayed black graffiti accent marks, a small hand-drawn smiley face icon in a fluorescent yellow circle, irreverent East London craft attitude. Studio flat-lay photography, photorealistic product, crisp print-quality type. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-1.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-7.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "qwen/qwen-image-edit-2511",
+  "test": "T4",
+  "status": "ok",
+  "file": "qwen-image-edit-2511__T4.jpg",
+  "output_url": "https://replicate.delivery/xezq/xog42GlHUGrVHhzkcnE9lbwHrBahxwZe6ePYiN46z6aLK8tWA/out-0.jpg",
+  "predict_time": 4.096871162,
+  "wall_time": 4.8,
+  "input_used": {
+   "prompt": "Extreme macro close-up of the top of the Phatstix tube, lid removed and set aside: the pale natural cream balm dome fills the upper frame, waxy dense matte salve texture clearly visible, the glossy threaded collar catching a single hard side light, the black lowercase wordmark softly out of focus below. Shallow depth of field, photorealistic, tactile, matte/gloss contrast. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "qwen/qwen-image-edit-2511",
+  "test": "T5",
+  "status": "ok",
+  "file": "qwen-image-edit-2511__T5.jpg",
+  "output_url": "https://replicate.delivery/xezq/smguEef13Sj3uEPOh1kswN0YcEhjuQJH9VtSLxSwYv7ZK8tWA/out-0.jpg",
+  "predict_time": 8.944983155,
+  "wall_time": 14.3,
+  "input_used": {
+   "prompt": "Editorial campaign lifestyle photograph in the exact photographic style of the style reference images (East London Liquor Co. campaign photography): direct hard on-camera flash against ambient dusk, deep black shadows, rich real-world texture, candid but art-directed, irreverent working-East-London energy. Scene: a marble-topped bar table at night; one real human hand reaches into frame to pick up the Phatstix tube, which stands upright next to a half-finished drink in a heavy tumbler; the transparent lid lies on the marble beside it catching the flash. Natural skin texture on the hand, photorealistic 35mm editorial photography, absolutely no synthetic AI gloss. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-pour.jpg",
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/references/v2-east-london-liquor-co-photo-fish.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ },
+ {
+  "model": "black-forest-labs/flux-2-flex",
+  "test": "T4",
+  "status": "error",
+  "error": "The input or output was flagged as sensitive. Please try again with different inputs. (E005) (uIJ6l3ruRD)"
+ },
+ {
+  "model": "bytedance/seedream-5-lite",
+  "test": "T1",
+  "status": "ok",
+  "file": "seedream-5-lite__T1.png",
+  "output_url": "https://replicate.delivery/xezq/U9OnCzCkbbKcDRhotfkSZwwiJIbInpQUA2y46faNpGobL8tWA/tmplo02n7m8.png",
+  "predict_time": 58.588016711,
+  "wall_time": 59.6,
+  "input_used": {
+   "prompt": "Editorial hero packshot. The Phatstix tube stands upright on a textured dark slate surface against a deep charcoal backdrop, one hard directional side light raking across it, deep editorial shadow, generous negative space above - magazine-grade product photography, NOT flat e-commerce lighting. Photorealistic, medium-format look, crisp matte plastic texture, subtle gloss highlight on the collar. The product (shown in the packshot reference) is Phatstix: an oversized natural lip balm twist-up tube, matte fluorescent yellow-green Pantone 923 C plastic body (high-vis-vest colour, approx #C5D135 - not olive, not lime-gold), a lowercase black 'phatstix' wordmark running vertically down the body as the ONLY marking, a transparent acrylic lid, a glossy same-colour threaded collar and base, and a pale natural cream balm dome. About 7cm tall and 3cm wide - bigger than a normal lip balm, smaller than a deodorant stick. Reproduce this product EXACTLY as in the packshot reference: same proportions, same colour, same wordmark spelling and placement, same materials. Never add decoration, patterns, extra text or logos to the tube.",
+   "image_input": [
+    "https://raw.githubusercontent.com/thomwatson/phatstix-moodboard-assets-TJDY/main/packshot-thebalm-2026.jpg"
+   ],
+   "aspect_ratio": "1:1"
+  }
+ },
+ {
+  "model": "qwen/qwen-image-edit-2511",
+  "test": "T3",
+  "status": "ok",
+  "file": "qwen-image-edit-2511__T3.jpg",
+  "output_url": "https://replicate.delivery/xezq/plMoonJVxl6qENK6IfaKmj8a9F08SwS1eCIVHSWhe1wBX4btA/out-0.jpg",
+  "predict_time": 3.661514809,
+  "wall_time": 4.9,
+  "input_used": {
+   "prompt": "Edit this image. Change ONLY two things: (1) the background becomes deep aubergine plum (#3A1F33); (2) the large black typography becomes fluorescent yellow-green matching the product tube. Keep EVERYTHING else pixel-identical: same composition, same product position and appearance, same wordmark, same graffiti marks, same smiley icon, same lighting and shadows.",
+   "image": [
+    "https://replicate.delivery/xezq/r87X0WGNx3ofC6ZQL5QK6Jv9qDqexPZ9odOVaikbeQzNU4btA/out-0.jpg"
+   ],
+   "aspect_ratio": "1:1",
+   "output_format": "jpg"
+  }
+ }
+]
